@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CPackFileMetaData>
+  <MapDataGroups>
+    <Item>
+      <Name>castle</Name>
+      <Bounds>
+        <Item>hyrule_col1</Item>
+        <Item>hyrule_col2</Item>
+        <Item>hyrule_col3</Item>
+      </Bounds>
+      <Flags/>
+      <WeatherTypes/>
+      <HoursOnOff value="0"/>
+    </Item>
+  </MapDataGroups>
+  <HDTxdBindingArray/>
+  <imapDependencies/>
+  <imapDependencies_2>
+    <Item>
+      <imapName>castle</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>hyrule</Item>
+      </itypDepArray>
+    </Item>
+  </imapDependencies_2>
+  <itypDependencies_2/>
+  <Interiors/>
+</CPackFileMetaData>

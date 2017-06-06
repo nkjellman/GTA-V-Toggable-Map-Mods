@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CPackFileMetaData>
+  <MapDataGroups>
+    <Item>
+      <Name>lookoutpoint</Name>
+      <Bounds>
+        <Item>lookoutpoint</Item>
+      </Bounds>
+      <Flags/>
+      <WeatherTypes/>
+      <HoursOnOff value="0"/>
+    </Item>
+  </MapDataGroups>
+  <HDTxdBindingArray/>
+  <imapDependencies/>
+  <imapDependencies_2>
+    <Item>
+      <imapName>lookoutpoint</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>lookoutpoint</Item>
+      </itypDepArray>
+    </Item>
+  </imapDependencies_2>
+  <itypDependencies_2/>
+  <Interiors/>
+</CPackFileMetaData>

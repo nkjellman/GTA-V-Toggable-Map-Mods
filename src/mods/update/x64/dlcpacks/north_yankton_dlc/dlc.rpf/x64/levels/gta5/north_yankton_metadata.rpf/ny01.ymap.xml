@@ -1,0 +1,937 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapData>
+  <name>ny01</name>
+  <parent/>
+  <flags value="1"/>
+  <contentFlags value="65"/>
+  <streamingExtentsMin x="-9192.00000000" y="-9192.00000000" z="-1000.00000000"/>
+  <streamingExtentsMax x="9192.00000000" y="9192.00000000" z="5000.00000000"/>
+  <entitiesExtentsMin x="-9192.00000000" y="-9192.00000000" z="-1000.00000000"/>
+  <entitiesExtentsMax x="9192.00000000" y="9192.00000000" z="5000.00000000"/>
+  <entities>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_interior_ring_x1</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="3080.33100000" y="-5263.40500000" z="111.04600000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="0.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge2b</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1547.36400000" y="-2645.70200000" z="49.18669000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.50900000" w="0.86100000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge2a</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1522.80000000" y="-2854.86600000" z="90.96171000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.51200000" w="0.85900010"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge2d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1498.53100000" y="-3090.80600000" z="111.50870000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.50800000" w="0.86100000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="2161.13600000" y="-3966.63700000" z="-60.96581000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.84500000" w="0.53500000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1631.13600000" y="-5246.63700000" z="-110.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.84500000" w="0.53500000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1941.13600000" y="-3516.63700000" z="-70.96581000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99900000" w="0.04100000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="2551.13700000" y="-3226.63700000" z="-80.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.99900000" w="0.04600000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="2771.13600000" y="-3036.63700000" z="-80.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.99100000" w="0.13300000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="3751.13600000" y="-3306.63700000" z="-100.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.99100000" w="0.13300000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="4361.13600000" y="-2846.63700000" z="-100.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.99100000" w="0.13300000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="5491.13600000" y="-2956.63700000" z="-100.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.99100000" w="0.13300000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="5671.13600000" y="-3246.63700000" z="-100.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.95300000" w="0.30300000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6221.13600000" y="-3986.63700000" z="-100.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.99100000" w="0.13300000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="7021.13600000" y="-3826.63700000" z="-140.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.99100000" w="0.13300000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="7481.13600000" y="-3396.63700000" z="-140.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.95300000" w="0.30300000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="8551.13600000" y="-3396.63700000" z="-70.96581000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.95300000" w="0.30300000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="9321.13600000" y="-3396.63700000" z="-70.96581000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.84200000" w="0.54000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="9761.13600000" y="-4206.63700000" z="-100.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.60700000" w="0.79500000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="9771.13600000" y="-5196.63700000" z="-100.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.60700000" w="0.79500000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="9771.13600000" y="-7736.63700000" z="-100.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.60700000" w="0.79500000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="9709.41400000" y="-6551.85900000" z="-93.78154000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.66600000" w="0.74600000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="9799.41400000" y="-8171.85900000" z="-103.78150000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.14300000" w="0.99000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="8611.13600000" y="-7286.63700000" z="-100.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.04100000" w="0.99900000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="7961.13600000" y="-7076.63700000" z="-100.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.04100000" w="0.99900000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="7591.13500000" y="-6916.63700000" z="-100.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.04100000" w="0.99900000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="7261.13600000" y="-6696.63700000" z="-100.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.04600000" w="0.99900000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6561.13600000" y="-7136.63700000" z="-100.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.04600000" w="0.99900000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="5711.13600000" y="-7136.63700000" z="-100.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.04600000" w="0.99900000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="5271.13600000" y="-7066.63800000" z="-100.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.04600000" w="0.99900000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="4641.13600000" y="-6886.63700000" z="-70.96581000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.13300000" w="0.99100000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="5551.13600000" y="-6836.63800000" z="-100.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.30300000" w="0.95300000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="4361.13600000" y="-6826.63700000" z="-70.96581000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.38500000" w="0.92299990"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="3701.13600000" y="-6596.63800000" z="-190.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.38500000" w="0.92299990"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="2911.13600000" y="-6596.63800000" z="-190.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.38500000" w="0.92299990"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="2211.13600000" y="-6596.63800000" z="-110.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.38500000" w="0.92299990"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1301.13600000" y="-6506.63700000" z="-110.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.73900000" w="0.67400000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1281.13600000" y="-5896.63700000" z="-110.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.73900000" w="0.67400000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1141.13600000" y="-5496.63700000" z="-110.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.73900000" w="0.67400000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1391.13600000" y="-5076.63700000" z="-110.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.73900000" w="0.67400000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock3</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1817.96800000" y="-4369.65300000" z="49.10812000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.84300000" w="0.53800000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="2081.13700000" y="-4056.63700000" z="-60.96581000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.92500000" w="0.38000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock2</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1821.13600000" y="-4296.63700000" z="-120.96580000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.92500000" w="0.38000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_mountrock3</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1807.96800000" y="-4449.65300000" z="49.10812000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.84300000" w="0.53800000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge2c</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1468.81200000" y="-3388.52500000" z="90.84716000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.50500000" w="0.86299990"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge2e</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1407.57100000" y="-3644.50000000" z="67.21546000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.68200000" w="0.73100000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+  </entities>
+  <containerLods/>
+  <boxOccluders/>
+  <occludeModels/>
+  <physicsDictionaries/>
+  <instancedData>
+    <ImapLink/>
+    <PropInstanceList/>
+    <GrassInstanceList/>
+  </instancedData>
+  <timeCycleModifiers/>
+  <carGenerators>
+    <Item>
+      <position x="-1052.59400000" y="-3483.12500000" z="13.64459000"/>
+      <orientX value="6.43765300"/>
+      <orientY value="11.30751000"/>
+      <perpendicularLength value="7.10776900"/>
+      <carModel>titan</carModel>
+      <flags value="3683"/>
+      <bodyColorRemap1 value="-1"/>
+      <bodyColorRemap2 value="-1"/>
+      <bodyColorRemap3 value="-1"/>
+      <bodyColorRemap4 value="-1"/>
+      <popGroup/>
+      <livery value="-1"/>
+    </Item>
+  </carGenerators>
+  <LODLightsSOA>
+    <direction/>
+    <falloff/>
+    <falloffExponent/>
+    <timeAndStateFlags/>
+    <hash/>
+    <coneInnerAngle/>
+    <coneOuterAngleOrCapExt/>
+    <coronaIntensity/>
+  </LODLightsSOA>
+  <DistantLODLightsSOA>
+    <position/>
+    <RGBI/>
+    <numStreetLights value="0"/>
+    <category value="0"/>
+  </DistantLODLightsSOA>
+  <block>
+    <version value="0"/>
+    <flags value="0"/>
+    <name/>
+    <exportedBy/>
+    <owner>Dekurwinator</owner>
+    <time/>
+  </block>
+</CMapData>

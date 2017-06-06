@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapData>
+  <name>nyprologue01h_lod</name>
+  <parent/>
+  <flags value="3"/>
+  <contentFlags value="2"/>
+  <streamingExtentsMin x="-9192.00000000" y="-9192.00000000" z="-1000.00000000"/>
+  <streamingExtentsMax x="9192.00000000" y="9192.00000000" z="5000.00000000"/>
+  <entitiesExtentsMin x="-9192.00000000" y="-9192.00000000" z="-1000.00000000"/>
+  <entitiesExtentsMax x="9192.00000000" y="9192.00000000" z="5000.00000000"/>
+  <entities>
+    <Item type="CEntityDef">
+      <archetypeName>PLG_01_Props_combo0505_SLOD</archetypeName>
+      <flags value="68681728"/>
+      <guid value="3535740845"/>
+      <position x="4533.22000000" y="-5064.68900000" z="111.68060000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="750.00000000"/>
+      <childLodDist value="400.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_SLOD1</lodLevel>
+      <numChildren value="5"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="254"/>
+      <artificialAmbientOcclusion value="0"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>PLG_01_Props_combo0502_22_LOD</archetypeName>
+      <flags value="68681728"/>
+      <guid value="839783705"/>
+      <position x="4426.33600000" y="-5083.06000000" z="110.08710000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="800.00000000"/>
+      <childLodDist value="188.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="254"/>
+      <artificialAmbientOcclusion value="0"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>PLG_01_Props_combo0502_23_LOD</archetypeName>
+      <flags value="68681728"/>
+      <guid value="1070194737"/>
+      <position x="4449.91200000" y="-5127.79600000" z="108.70520000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="800.00000000"/>
+      <childLodDist value="282.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="254"/>
+      <artificialAmbientOcclusion value="0"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>PLG_01_Props_combo0502_24_LOD</archetypeName>
+      <flags value="68681728"/>
+      <guid value="2149165316"/>
+      <position x="4439.17900000" y="-5128.74300000" z="108.24520000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="800.00000000"/>
+      <childLodDist value="299.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="254"/>
+      <artificialAmbientOcclusion value="0"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>PLG_01_Props_combo0505_16_LOD</archetypeName>
+      <flags value="68681728"/>
+      <guid value="2745658102"/>
+      <position x="4492.37500000" y="-5059.75300000" z="111.15450000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="800.00000000"/>
+      <childLodDist value="248.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="254"/>
+      <artificialAmbientOcclusion value="0"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>PLG_01_Props_combo0505_20_LOD</archetypeName>
+      <flags value="68681728"/>
+      <guid value="999561389"/>
+      <position x="4533.49100000" y="-5064.84600000" z="110.41790000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="299.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="254"/>
+      <artificialAmbientOcclusion value="0"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>PLG_01_Props_combo0505_25_LOD</archetypeName>
+      <flags value="68681728"/>
+      <guid value="269915882"/>
+      <position x="4491.89400000" y="-5041.68700000" z="109.87220000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="800.00000000"/>
+      <childLodDist value="299.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="254"/>
+      <artificialAmbientOcclusion value="0"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>PLG_01_Props_combo0505_26_LOD</archetypeName>
+      <flags value="68681728"/>
+      <guid value="1364745167"/>
+      <position x="4489.35900000" y="-5048.52200000" z="110.73220000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="800.00000000"/>
+      <childLodDist value="267.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="254"/>
+      <artificialAmbientOcclusion value="0"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>PLG_01_Props_combo0505_27_LOD</archetypeName>
+      <flags value="68681728"/>
+      <guid value="957896934"/>
+      <position x="4497.29200000" y="-5044.14000000" z="109.98950000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="800.00000000"/>
+      <childLodDist value="245.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="254"/>
+      <artificialAmbientOcclusion value="0"/>
+      <tintValue value="0"/>
+    </Item>
+  </entities>
+  <containerLods/>
+  <boxOccluders/>
+  <occludeModels/>
+  <physicsDictionaries/>
+  <instancedData>
+    <ImapLink/>
+    <PropInstanceList/>
+    <GrassInstanceList/>
+  </instancedData>
+  <timeCycleModifiers/>
+  <carGenerators/>
+  <LODLightsSOA>
+    <direction/>
+    <falloff/>
+    <falloffExponent/>
+    <timeAndStateFlags/>
+    <hash/>
+    <coneInnerAngle/>
+    <coneOuterAngleOrCapExt/>
+    <coronaIntensity/>
+  </LODLightsSOA>
+  <DistantLODLightsSOA>
+    <position/>
+    <RGBI/>
+    <numStreetLights value="0"/>
+    <category value="0"/>
+  </DistantLODLightsSOA>
+  <block>
+    <version value="0"/>
+    <flags value="0"/>
+    <name/>
+    <exportedBy/>
+    <owner/>
+    <time/>
+  </block>
+</CMapData>

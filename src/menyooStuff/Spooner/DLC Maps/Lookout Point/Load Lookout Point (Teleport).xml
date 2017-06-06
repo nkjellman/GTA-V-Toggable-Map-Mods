@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<SpoonerPlacements>
+	<Note />
+	<AudioFile volume="400" />
+	<ClearDatabase>false</ClearDatabase>
+	<ClearWorld>0</ClearWorld>
+	<ClearMarkers>false</ClearMarkers>
+	<IPLsToLoad load_mp_maps="false" load_sp_maps="false">
+		<IPL>lookoutpoint</IPL>
+	</IPLsToLoad>
+	<IPLsToRemove />
+	<WeatherToSet />
+	<StartTaskSequencesOnLoad>true</StartTaskSequencesOnLoad>
+	<ImgLoadingCoords>
+		<X>-3034.59644</X>
+		<Y>-1644.18274</Y>
+		<Z>21.9787731</Z>
+	</ImgLoadingCoords>
+	<ReferenceCoords>
+		<X>-4941.89697</X>
+		<Y>-996.700867</Y>
+		<Z>490.183044</Z>
+	</ReferenceCoords>
+</SpoonerPlacements>

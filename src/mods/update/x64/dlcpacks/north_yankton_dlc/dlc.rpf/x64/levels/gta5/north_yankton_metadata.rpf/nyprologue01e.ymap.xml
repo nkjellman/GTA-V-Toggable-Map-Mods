@@ -1,0 +1,4611 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapData>
+  <name>nyprologue01e</name>
+  <parent>nyprologue01e_lod</parent>
+  <flags value="1"/>
+  <contentFlags value="65"/>
+  <streamingExtentsMin x="-9192.00000000" y="-9192.00000000" z="-1000.00000000"/>
+  <streamingExtentsMax x="9192.00000000" y="9192.00000000" z="5000.00000000"/>
+  <entitiesExtentsMin x="-9192.00000000" y="-9192.00000000" z="-1000.00000000"/>
+  <entitiesExtentsMax x="9192.00000000" y="9192.00000000" z="5000.00000000"/>
+  <entities>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3961474894"/>
+      <position x="3876.98900000" y="-5011.16400000" z="109.82670000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.55789190" w="0.82991360"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_traffic_rail_1b</archetypeName>
+      <flags value="1572865"/>
+      <guid value="1504313058"/>
+      <position x="3882.92700000" y="-5017.32500000" z="110.26770000"/>
+      <rotation x="0.02877900" y="0.01448100" z="-0.59765100" w="0.80110890"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="170.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_traffic_rail_1b</archetypeName>
+      <flags value="1572865"/>
+      <guid value="2333685642"/>
+      <position x="3866.17800000" y="-5024.44600000" z="110.33810000"/>
+      <rotation x="0.01084100" y="0.00545500" z="0.80146610" w="0.59791710"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="170.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2230037545"/>
+      <position x="3873.45700000" y="-5030.87200000" z="109.82670000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.82991360" w="-0.55789190"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="582835097"/>
+      <position x="3883.40400000" y="-5034.10400000" z="110.24460000"/>
+      <rotation x="-0.10832500" y="-0.07282000" z="0.82281380" w="-0.55311890"/>
+      <scaleXY value="0.57950000"/>
+      <scaleZ value="0.57950000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2163964399"/>
+      <position x="3879.73700000" y="-5029.54200000" z="109.78120000"/>
+      <rotation x="-0.01592301" y="0.04060902" z="0.72360440" w="0.68883540"/>
+      <scaleXY value="0.57950000"/>
+      <scaleZ value="0.57950000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2404457807"/>
+      <position x="3910.52900000" y="-4966.18000000" z="92.78270000"/>
+      <rotation x="-0.16774010" y="0.15341300" z="-0.48033720" w="0.84711510"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3215511111"/>
+      <position x="3903.06000000" y="-4964.77900000" z="92.21161000"/>
+      <rotation x="-0.11444500" y="0.09559002" z="-0.27470410" w="0.94989610"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1029297528"/>
+      <position x="3899.67800000" y="-4965.40300000" z="91.97914000"/>
+      <rotation x="-0.12026400" y="-0.08880403" z="0.82506030" w="0.54490920"/>
+      <scaleXY value="0.58941400"/>
+      <scaleZ value="0.58941400"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="790273600"/>
+      <position x="3896.66700000" y="-4962.45000000" z="92.47011000"/>
+      <rotation x="0.01826999" y="-0.13174200" z="0.87425270" w="-0.46689690"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2155498578"/>
+      <position x="3896.15600000" y="-4963.24100000" z="92.42232000"/>
+      <rotation x="-0.08023503" y="-0.10607000" z="0.94833830" w="0.28803810"/>
+      <scaleXY value="0.76308500"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3250907824"/>
+      <position x="3891.31500000" y="-4960.95200000" z="92.37239000"/>
+      <rotation x="-0.10171100" y="0.09163200" z="-0.56795410" w="0.81159520"/>
+      <scaleXY value="0.76308500"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3409973842"/>
+      <position x="3881.85700000" y="-4957.47300000" z="92.81224000"/>
+      <rotation x="-0.12167800" y="0.14461100" z="-0.55022200" w="0.81334980"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="115570334"/>
+      <position x="3880.97100000" y="-4955.47300000" z="93.78749000"/>
+      <rotation x="-0.02816601" y="-0.08707401" z="0.94112420" w="0.32543810"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2806787448"/>
+      <position x="3878.82800000" y="-4955.06800000" z="93.90068000"/>
+      <rotation x="-0.03843600" y="-0.09164100" z="0.96003000" w="0.26166200"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="643794755"/>
+      <position x="3875.44100000" y="-4952.42100000" z="93.69197000"/>
+      <rotation x="-0.12075400" y="0.05104000" z="0.06764700" w="0.98905880"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2338092660"/>
+      <position x="3881.31700000" y="-4948.66500000" z="94.62123000"/>
+      <rotation x="-0.01511500" y="-0.04605300" z="0.76704810" w="0.63975610"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2623974784"/>
+      <position x="3877.17300000" y="-4950.33900000" z="94.55873000"/>
+      <rotation x="-0.02998499" y="-0.01505300" z="-0.30316000" w="0.95234890"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2078392280"/>
+      <position x="3874.54800000" y="-4951.23900000" z="94.41688000"/>
+      <rotation x="-0.04451301" y="0.12422600" z="-0.64657410" w="0.75135110"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="575136470"/>
+      <position x="3872.27400000" y="-4941.22200000" z="94.99428000"/>
+      <rotation x="-0.05353803" y="0.03169002" z="-0.29809820" w="0.95250560"/>
+      <scaleXY value="0.76308500"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3053532072"/>
+      <position x="3867.56100000" y="-4944.45500000" z="94.71791000"/>
+      <rotation x="-0.01322900" y="0.00745300" z="-0.40034290" w="0.91623960"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2321703991"/>
+      <position x="3872.85500000" y="-4943.99500000" z="94.75844000"/>
+      <rotation x="-0.01350001" y="0.00494600" z="-0.11974610" w="0.99270050"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1613659278"/>
+      <position x="3870.20700000" y="-4953.88700000" z="92.48726000"/>
+      <rotation x="-0.15558890" y="-0.34389180" z="0.91978760" w="0.10733800"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="1856204553"/>
+      <position x="3870.46900000" y="-4951.55800000" z="93.26689000"/>
+      <rotation x="-0.06986601" y="0.10132500" z="-0.61895910" w="0.77572010"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3741506814"/>
+      <position x="3864.53100000" y="-4949.76200000" z="93.27823000"/>
+      <rotation x="-0.12323100" y="-0.04630801" z="0.54575820" w="0.82753710"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="1784842871"/>
+      <position x="3864.79500000" y="-4947.68900000" z="94.55409000"/>
+      <rotation x="-0.11616400" y="-0.04336001" z="0.47394810" w="0.87177920"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1035144719"/>
+      <position x="3862.19500000" y="-4948.83200000" z="93.43420000"/>
+      <rotation x="-0.06844599" y="0.13228500" z="-0.51457390" w="0.84441080"/>
+      <scaleXY value="0.79288000"/>
+      <scaleZ value="0.79288000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="4179924031"/>
+      <position x="3868.57300000" y="-4974.24500000" z="93.25639000"/>
+      <rotation x="0.25991900" y="-0.02051700" z="0.29052100" w="0.92066210"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="348306113"/>
+      <position x="3874.07600000" y="-4972.71500000" z="92.51265000"/>
+      <rotation x="0.23953620" y="-0.06226504" z="0.09405906" w="0.96431240"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2501334431"/>
+      <position x="3872.78800000" y="-4981.40600000" z="96.27863000"/>
+      <rotation x="0.01735399" y="0.24337590" z="0.94886070" w="0.20032590"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="1925614618"/>
+      <position x="3876.33500000" y="-4979.66400000" z="94.96831000"/>
+      <rotation x="0.14805790" y="0.24210680" z="0.89785340" w="0.33663380"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2151656197"/>
+      <position x="3884.03500000" y="-4986.12500000" z="96.66693000"/>
+      <rotation x="0.34278710" y="0.01662301" z="0.64325430" w="0.68443020"/>
+      <scaleXY value="0.76308500"/>
+      <scaleZ value="0.76308500"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="1022393425"/>
+      <position x="3889.97000000" y="-4979.62900000" z="92.51523000"/>
+      <rotation x="0.21217290" y="0.00972499" z="0.60665070" w="0.76606970"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2738850154"/>
+      <position x="3894.55400000" y="-4985.71600000" z="94.47963000"/>
+      <rotation x="0.21412200" y="0.07729300" z="0.64077600" w="0.73320100"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="645091186"/>
+      <position x="3894.43000000" y="-4988.50700000" z="95.78798000"/>
+      <rotation x="0.04985901" y="0.22211810" z="0.96266430" w="-0.14647600"/>
+      <scaleXY value="0.76308500"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="1041654914"/>
+      <position x="3897.78600000" y="-4987.29800000" z="94.88075000"/>
+      <rotation x="0.24544210" y="-0.05316003" z="-0.11425910" w="0.96118520"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="961986649"/>
+      <position x="3896.55600000" y="-4991.79200000" z="97.66811000"/>
+      <rotation x="0.32212910" y="0.03839901" z="0.31111300" w="0.89329000"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="1649534285"/>
+      <position x="3909.91100000" y="-4989.91600000" z="93.80695000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.37572010" w="0.92673320"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="1162277410"/>
+      <position x="3989.15800000" y="-5036.34000000" z="108.26550000"/>
+      <rotation x="0.00238300" y="0.13015000" z="0.98503520" w="-0.11296500"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2929923449"/>
+      <position x="3893.97000000" y="-5091.23600000" z="110.05590000"/>
+      <rotation x="-0.00240400" y="0.00073600" z="0.29264010" w="0.95621940"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3899726620"/>
+      <position x="3897.05300000" y="-5119.72600000" z="109.96280000"/>
+      <rotation x="0.00652700" y="0.00797400" z="0.77376670" w="-0.63338680"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3459658429"/>
+      <position x="3906.35400000" y="-5159.44300000" z="109.84240000"/>
+      <rotation x="-0.00994200" y="-0.00989300" z="-0.70529200" w="0.70877810"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3990498525"/>
+      <position x="3890.51500000" y="-5083.27100000" z="110.06500000"/>
+      <rotation x="0.00499600" y="0.00501500" z="0.70842580" w="-0.70574980"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3383158258"/>
+      <position x="3884.78300000" y="-5044.83300000" z="109.98590000"/>
+      <rotation x="-0.00942600" y="0.00972400" z="0.71795390" w="0.69595890"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3310862416"/>
+      <position x="3890.25300000" y="-5068.95900000" z="110.40550000"/>
+      <rotation x="-0.01500401" y="0.01110200" z="0.59472930" w="0.80370930"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="840667583"/>
+      <position x="3886.86700000" y="-5135.78800000" z="109.31210000"/>
+      <rotation x="-0.05059601" y="0.03919900" z="0.61118700" w="0.78889410"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3086065876"/>
+      <position x="3885.24000000" y="-5108.28900000" z="109.82800000"/>
+      <rotation x="-0.03973301" y="0.03243501" z="0.63154610" w="0.77364000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3736580196"/>
+      <position x="3904.31600000" y="-5157.23800000" z="109.85580000"/>
+      <rotation x="0.01044200" y="0.01075100" z="0.71725730" w="-0.69664720"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3654984429"/>
+      <position x="3878.56100000" y="-5088.62500000" z="109.69950000"/>
+      <rotation x="-0.02924800" y="0.02152000" z="0.59225100" w="0.80493490"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="1170496061"/>
+      <position x="3876.93400000" y="-5061.12500000" z="110.04830000"/>
+      <rotation x="-0.01277701" y="0.00913800" z="0.58166020" w="0.81328020"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3075484772"/>
+      <position x="3870.17400000" y="-5033.11900000" z="110.48330000"/>
+      <rotation x="-0.05290497" y="0.04018798" z="0.60355870" w="0.79454570"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="4112592958"/>
+      <position x="3908.66000000" y="-5019.39300000" z="109.57080000"/>
+      <rotation x="0.01742999" y="0.09005997" z="0.97764160" w="-0.18921490"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="4168414704"/>
+      <position x="3922.84200000" y="-5022.24200000" z="109.17080000"/>
+      <rotation x="0.01855399" y="0.14403200" z="0.98129060" w="-0.12640900"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2601639448"/>
+      <position x="3936.11600000" y="-5027.60000000" z="109.40580000"/>
+      <rotation x="0.01727599" y="0.09627597" z="0.97955970" w="-0.17577090"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2351190240"/>
+      <position x="3861.27100000" y="-5002.83200000" z="108.48360000"/>
+      <rotation x="0.03635100" y="0.28348900" z="0.95050400" w="-0.12188000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3020885122"/>
+      <position x="3916.18800000" y="-5041.94900000" z="109.93280000"/>
+      <rotation x="-0.00660900" y="-0.00577800" z="-0.65818680" w="0.75280370"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2328167980"/>
+      <position x="3901.80500000" y="-5040.40300000" z="110.18620000"/>
+      <rotation x="-0.00740100" y="-0.00415200" z="-0.48931690" w="0.87206480"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2695307051"/>
+      <position x="3888.09900000" y="-5036.27300000" z="110.35730000"/>
+      <rotation x="-0.01162800" y="-0.00501600" z="-0.39603380" w="0.91814860"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="598854319"/>
+      <position x="3966.18800000" y="-5066.50200000" z="109.08500000"/>
+      <rotation x="-0.01105901" y="-0.00031700" z="-0.02864601" w="0.99952840"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2471976155"/>
+      <position x="3963.34000000" y="-5080.68600000" z="109.14930000"/>
+      <rotation x="0.00617900" y="0.01856801" z="0.94866150" w="-0.31568710"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2164764390"/>
+      <position x="3931.33200000" y="-5072.12100000" z="109.59630000"/>
+      <rotation x="0.00452300" y="0.01562599" z="0.96044050" w="-0.27800990"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="397279087"/>
+      <position x="3986.72100000" y="-5057.08100000" z="108.73600000"/>
+      <rotation x="0.00663900" y="0.02317901" z="0.96106940" w="-0.27525310"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3790431864"/>
+      <position x="3997.48900000" y="-4983.29100000" z="93.53620000"/>
+      <rotation x="-0.12766400" y="-0.00070700" z="-0.00549400" w="0.99180200"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3830320202"/>
+      <position x="3989.89500000" y="-4983.02000000" z="93.90051000"/>
+      <rotation x="-0.13664100" y="0.00811800" z="0.05874999" w="0.98884370"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="509179852"/>
+      <position x="3986.64400000" y="-4984.14300000" z="93.00644000"/>
+      <rotation x="-0.14678810" y="0.01235401" z="0.08294805" w="0.98560660"/>
+      <scaleXY value="0.58941400"/>
+      <scaleZ value="0.58941400"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3611598940"/>
+      <position x="3981.93700000" y="-4984.14400000" z="92.72724000"/>
+      <rotation x="-0.14678590" y="0.01497399" z="0.10037300" w="0.98394860"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2960727572"/>
+      <position x="3981.54900000" y="-4985.00200000" z="92.89321000"/>
+      <rotation x="-0.14461600" y="0.01512100" z="0.10288600" w="0.98400810"/>
+      <scaleXY value="0.76308500"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1741123921"/>
+      <position x="3976.42000000" y="-4983.46100000" z="92.56999000"/>
+      <rotation x="-0.14587100" y="0.01291300" z="0.08722901" w="0.98536590"/>
+      <scaleXY value="0.76308500"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2785448446"/>
+      <position x="3966.55000000" y="-4981.43200000" z="93.20300000"/>
+      <rotation x="-0.14167990" y="0.00820600" z="0.05723397" w="0.98822250"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="4239967806"/>
+      <position x="3965.37500000" y="-4979.58700000" z="93.71296000"/>
+      <rotation x="-0.14184490" y="0.00955100" z="0.06649998" w="0.98760650"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2783636758"/>
+      <position x="3963.19500000" y="-4979.50700000" z="93.65006000"/>
+      <rotation x="-0.14014300" y="0.01001200" z="0.07055199" w="0.98756380"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3078982063"/>
+      <position x="3959.45100000" y="-4977.39500000" z="93.68634000"/>
+      <rotation x="-0.13620800" y="0.01222800" z="0.08857203" w="0.98663710"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="4206861780"/>
+      <position x="3964.70100000" y="-4972.80400000" z="95.16922000"/>
+      <rotation x="-0.11958900" y="0.00988900" z="0.08181603" w="0.98939730"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1013436466"/>
+      <position x="3960.85400000" y="-4975.07700000" z="94.38123000"/>
+      <rotation x="-0.13181900" y="0.01254500" z="0.09390303" w="0.98673640"/>
+      <scaleXY value="0.76308500"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2192326801"/>
+      <position x="3958.39200000" y="-4976.35900000" z="93.90653000"/>
+      <rotation x="-0.13489000" y="0.01310800" z="0.09582699" w="0.98612880"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2259753328"/>
+      <position x="3954.64900000" y="-4966.79300000" z="95.99966000"/>
+      <rotation x="-0.10980500" y="0.01198001" z="0.10779200" w="0.98801830"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3135152229"/>
+      <position x="3950.47100000" y="-4970.69300000" z="94.97450000"/>
+      <rotation x="-0.12452190" y="0.01544899" z="0.12214690" w="0.98454850"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3852369992"/>
+      <position x="3955.63700000" y="-4969.44900000" z="95.49210000"/>
+      <rotation x="-0.11519900" y="0.01225000" z="0.10503400" w="0.98769780"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2917228816"/>
+      <position x="3954.49500000" y="-4979.62500000" z="92.75620000"/>
+      <rotation x="-0.13675800" y="0.01422300" z="0.10245800" w="0.98518890"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3912019475"/>
+      <position x="3954.40600000" y="-4977.28300000" z="93.40686000"/>
+      <rotation x="-0.13589900" y="0.01444900" z="0.10473700" w="0.98506480"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3037943942"/>
+      <position x="3948.26800000" y="-4976.39300000" z="93.67055000"/>
+      <rotation x="-0.13627110" y="0.01675801" z="0.12090310" w="0.98312350"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2148120049"/>
+      <position x="3948.21900000" y="-4974.30500000" z="93.84544000"/>
+      <rotation x="-0.13450200" y="0.01668100" z="0.12194000" w="0.98324030"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1206049192"/>
+      <position x="3945.81800000" y="-4975.82200000" z="93.66164000"/>
+      <rotation x="-0.13654200" y="0.01763599" z="0.12687600" w="0.98231760"/>
+      <scaleXY value="0.79288000"/>
+      <scaleZ value="0.79288000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3672540599"/>
+      <position x="3941.16200000" y="-4969.81100000" z="94.94176000"/>
+      <rotation x="-0.13992700" y="0.01924200" z="0.13486300" w="0.98074570"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="364300623"/>
+      <position x="3934.88100000" y="-4974.07800000" z="92.79482000"/>
+      <rotation x="-0.14595510" y="0.02343801" z="0.15680810" w="0.97650350"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1479416980"/>
+      <position x="3929.30200000" y="-4968.96800000" z="94.24547000"/>
+      <rotation x="-0.14307300" y="0.02646300" z="0.17993800" w="0.97285770"/>
+      <scaleXY value="0.75247400"/>
+      <scaleZ value="0.75247400"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2258492190"/>
+      <position x="3930.69300000" y="-4969.24400000" z="93.85789000"/>
+      <rotation x="-0.14429400" y="0.02533799" z="0.17108890" w="0.97430270"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1654887223"/>
+      <position x="3928.29200000" y="-4969.14100000" z="93.67570000"/>
+      <rotation x="-0.14208900" y="0.02725701" z="0.18641310" w="0.97176020"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1445649494"/>
+      <position x="3927.66200000" y="-4970.92500000" z="93.47946000"/>
+      <rotation x="-0.15676800" y="0.03080600" z="0.19034400" w="0.96862990"/>
+      <scaleXY value="0.58276800"/>
+      <scaleZ value="0.58276800"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1567146955"/>
+      <position x="3925.34900000" y="-4970.98000000" z="93.12372000"/>
+      <rotation x="-0.15246710" y="0.03014002" z="0.19157110" w="0.96909540"/>
+      <scaleXY value="0.62886200"/>
+      <scaleZ value="0.62886200"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="526623794"/>
+      <position x="3923.34200000" y="-4970.38200000" z="92.59200000"/>
+      <rotation x="-0.15090210" y="0.03011502" z="0.19337810" w="0.96898220"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308500"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2718713294"/>
+      <position x="3916.04500000" y="-4987.02100000" z="92.08518000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.98934500" w="-0.14559000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3415602346"/>
+      <position x="3920.16800000" y="-4989.03300000" z="92.28351000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.98804440" w="-0.15417010"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="416379542"/>
+      <position x="3923.84700000" y="-4988.78500000" z="91.35281000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.98549190" w="-0.16972300"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="386628010"/>
+      <position x="3931.63700000" y="-4993.72000000" z="92.39772000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.98061890" w="-0.19592500"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767168"/>
+      <guid value="2240795715"/>
+      <position x="3933.45200000" y="-4993.80300000" z="92.21898000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.98264170" w="-0.18551400"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2490554178"/>
+      <position x="3930.98800000" y="-4996.55400000" z="93.96459000"/>
+      <rotation x="-0.06812599" y="0.33620700" z="0.92061110" w="-0.18654500"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767172"/>
+      <guid value="717498831"/>
+      <position x="3935.07700000" y="-4993.52600000" z="91.93127000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.98450440" w="-0.17536010"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="553769683"/>
+      <position x="3938.36600000" y="-4993.91900000" z="91.32781000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.98862510" w="-0.15040100"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="4195576159"/>
+      <position x="3939.30900000" y="-4996.75000000" z="92.52961000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.98992530" w="-0.14159100"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767172"/>
+      <guid value="1078535849"/>
+      <position x="3941.92700000" y="-4995.95400000" z="92.08632000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99250100" w="-0.12223700"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3991919547"/>
+      <position x="3945.27700000" y="-5005.29700000" z="96.37413000"/>
+      <rotation x="-0.02326800" y="0.18029410" z="0.97524920" w="-0.12586400"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2611343178"/>
+      <position x="3954.55900000" y="-4998.27200000" z="91.91128000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99476020" w="-0.10223600"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="1268534068"/>
+      <position x="3959.41100000" y="-4997.17300000" z="91.62038000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99788120" w="-0.06506302"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="1535570642"/>
+      <position x="3959.61500000" y="-5004.99900000" z="94.03434000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99708390" w="-0.07631400"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2519322637"/>
+      <position x="3962.78800000" y="-5002.63500000" z="93.06944000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99832400" w="-0.05787300"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2157676188"/>
+      <position x="3971.42300000" y="-5006.85600000" z="94.88166000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99879710" w="-0.04903501"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308500"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="880163107"/>
+      <position x="3976.17800000" y="-5001.35700000" z="92.20977000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99822460" w="-0.05956197"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767168"/>
+      <guid value="2515328527"/>
+      <position x="3981.67200000" y="-5005.86000000" z="93.21361000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99874450" w="-0.05009602"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2927569973"/>
+      <position x="3981.90900000" y="-5008.80000000" z="94.81792000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99914790" w="-0.04127400"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2635678372"/>
+      <position x="3985.03700000" y="-5006.87300000" z="93.93022000"/>
+      <rotation x="-0.00661300" y="0.18519900" z="0.98205290" w="-0.03506900"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="605783805"/>
+      <position x="3984.49400000" y="-5012.18300000" z="97.03046000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99876890" w="-0.04960799"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2777638368"/>
+      <position x="3995.32900000" y="-5008.25000000" z="94.03650000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99976590" w="0.02164000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="397425371"/>
+      <position x="3969.88500000" y="-4947.19600000" z="99.46678000"/>
+      <rotation x="-0.05293101" y="-0.00626900" z="-0.11744400" w="0.99164810"/>
+      <scaleXY value="0.62886200"/>
+      <scaleZ value="0.62886200"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1522728220"/>
+      <position x="3971.97700000" y="-4947.26100000" z="98.91748000"/>
+      <rotation x="-0.05221499" y="-0.00701900" z="-0.13303800" w="0.98970970"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308500"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="295461120"/>
+      <position x="3995.73300000" y="-4951.62400000" z="98.15521000"/>
+      <rotation x="-0.04190003" y="0.00074500" z="0.01776901" w="0.99896350"/>
+      <scaleXY value="0.76308500"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="118150050"/>
+      <position x="4001.08700000" y="-4951.79900000" z="97.81610000"/>
+      <rotation x="-0.04316800" y="0.00083700" z="0.01936900" w="0.99887970"/>
+      <scaleXY value="0.76308500"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2781924313"/>
+      <position x="3994.15800000" y="-4947.38100000" z="98.53098000"/>
+      <rotation x="-0.03712500" y="-0.00136100" z="-0.03661201" w="0.99863870"/>
+      <scaleXY value="0.79288000"/>
+      <scaleZ value="0.79288000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="4162475709"/>
+      <position x="3954.89900000" y="-4952.37800000" z="98.85572000"/>
+      <rotation x="-0.06779003" y="0.00672100" z="0.09843104" w="0.99280950"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2526929996"/>
+      <position x="3959.87700000" y="-4946.64400000" z="99.19437000"/>
+      <rotation x="-0.04983102" y="0.00133300" z="0.02671801" w="0.99839940"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2807212486"/>
+      <position x="3966.57800000" y="-4950.15500000" z="99.12890000"/>
+      <rotation x="-0.05921199" y="-0.00336000" z="-0.05654999" w="0.99663670"/>
+      <scaleXY value="0.75247400"/>
+      <scaleZ value="0.75247400"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="575905984"/>
+      <position x="3965.16400000" y="-4950.24400000" z="98.67520000"/>
+      <rotation x="-0.05969602" y="-0.00222400" z="-0.03715601" w="0.99752240"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2553473743"/>
+      <position x="3967.51100000" y="-4949.72900000" z="98.75836000"/>
+      <rotation x="-0.05756001" y="-0.00421400" z="-0.07289801" w="0.99566810"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1125440803"/>
+      <position x="3967.66200000" y="-4947.84400000" z="99.43809000"/>
+      <rotation x="-0.05342399" y="-0.00491500" z="-0.09147898" w="0.99436070"/>
+      <scaleXY value="0.58276700"/>
+      <scaleZ value="0.58276800"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2330246225"/>
+      <position x="3872.44800000" y="-5234.30200000" z="105.37980000"/>
+      <rotation x="-0.14286100" y="0.04404799" z="0.92832680" w="-0.34038190"/>
+      <scaleXY value="0.58941400"/>
+      <scaleZ value="0.58941400"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="530739217"/>
+      <position x="3881.37400000" y="-5238.03700000" z="107.08420000"/>
+      <rotation x="0.09516196" y="0.09291898" z="-0.14336100" w="0.98069260"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="786317700"/>
+      <position x="3851.30300000" y="-5164.75500000" z="101.06860000"/>
+      <rotation x="0.10304000" y="0.08105099" z="0.83320390" w="-0.53720090"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2651962150"/>
+      <position x="3848.62000000" y="-5164.39900000" z="100.18620000"/>
+      <rotation x="0.00131200" y="0.03352601" z="0.98026350" w="-0.19482810"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3183717379"/>
+      <position x="3850.77900000" y="-5166.14100000" z="100.53960000"/>
+      <rotation x="0.13026800" y="-0.02106400" z="0.97025510" w="0.20295700"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2698827303"/>
+      <position x="3843.51400000" y="-5173.40200000" z="96.49978000"/>
+      <rotation x="0.05361704" y="0.03155702" z="0.97795460" w="-0.19933510"/>
+      <scaleXY value="0.76308500"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="209301877"/>
+      <position x="3848.76200000" y="-5175.66700000" z="98.01800000"/>
+      <rotation x="0.01291800" y="0.00797900" z="0.99561580" w="-0.09229698"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="36388055"/>
+      <position x="3845.55200000" y="-5171.43300000" z="97.63089000"/>
+      <rotation x="0.01085400" y="0.00942800" z="0.92695270" w="-0.37490290"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="381250693"/>
+      <position x="3855.33300000" y="-5168.40200000" z="101.81760000"/>
+      <rotation x="0.22587710" y="-0.30240510" z="0.35052910" w="0.85712310"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2415259222"/>
+      <position x="3853.22300000" y="-5169.42200000" z="100.78710000"/>
+      <rotation x="0.12247100" y="0.01219800" z="0.97824420" w="0.16700500"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3102484262"/>
+      <position x="3854.86700000" y="-5175.40400000" z="100.73760000"/>
+      <rotation x="-0.01901199" y="-0.13026490" z="-0.46074180" w="0.87771660"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2043753788"/>
+      <position x="3852.97300000" y="-5176.28500000" z="99.44978000"/>
+      <rotation x="-0.01817700" y="-0.12265300" z="-0.53417790" w="0.83622970"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="58937630"/>
+      <position x="3855.32600000" y="-5177.87700000" z="100.45690000"/>
+      <rotation x="0.14889000" y="-0.00400600" z="0.98793550" w="0.04242201"/>
+      <scaleXY value="0.79288000"/>
+      <scaleZ value="0.79288000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3072867400"/>
+      <position x="3851.68400000" y="-5184.55100000" z="97.56737000"/>
+      <rotation x="0.01454199" y="-0.00214700" z="0.95307540" w="0.30237580"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3985707432"/>
+      <position x="3858.10900000" y="-5188.59600000" z="99.38479000"/>
+      <rotation x="0.11158000" y="-0.13243400" z="0.83418310" w="0.52359310"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3431099920"/>
+      <position x="3862.68600000" y="-5199.83200000" z="100.74190000"/>
+      <rotation x="-0.03777700" y="-0.13414900" z="-0.14248000" w="0.97993690"/>
+      <scaleXY value="0.75247400"/>
+      <scaleZ value="0.75247400"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="356026150"/>
+      <position x="3855.35700000" y="-5194.37000000" z="97.48542000"/>
+      <rotation x="-0.06910800" y="-0.12102500" z="-0.37531500" w="0.91636000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3957404409"/>
+      <position x="3863.24900000" y="-5200.68900000" z="100.43250000"/>
+      <rotation x="0.09580200" y="0.10459300" z="0.98805600" w="-0.06023101"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="4226386401"/>
+      <position x="3865.13500000" y="-5200.55100000" z="101.92430000"/>
+      <rotation x="0.07047803" y="-0.13812710" z="-0.08666204" w="0.98409530"/>
+      <scaleXY value="0.58276800"/>
+      <scaleZ value="0.58276800"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1942811774"/>
+      <position x="3866.11200000" y="-5202.64900000" z="102.31710000"/>
+      <rotation x="0.07943903" y="0.13475400" z="0.89132730" w="-0.42551910"/>
+      <scaleXY value="0.62886200"/>
+      <scaleZ value="0.62886200"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2318430941"/>
+      <position x="3866.36900000" y="-5204.72700000" z="101.86400000"/>
+      <rotation x="0.14213400" y="-0.05446099" z="0.52323690" w="0.83848380"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1942314039"/>
+      <position x="3846.78900000" y="-5259.36800000" z="101.40850000"/>
+      <rotation x="0.12686400" y="0.06342898" z="0.90121980" w="-0.40949390"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1942819622"/>
+      <position x="3855.93000000" y="-5231.34200000" z="98.01590000"/>
+      <rotation x="-0.11053100" y="-0.10066100" z="0.76487690" w="0.62658890"/>
+      <scaleXY value="0.58941400"/>
+      <scaleZ value="0.58941400"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3751611804"/>
+      <position x="3854.88300000" y="-5221.72300000" z="96.92427000"/>
+      <rotation x="0.03167399" y="-0.12917700" z="0.91749570" w="-0.37484890"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2091852467"/>
+      <position x="3854.54400000" y="-5222.60200000" z="97.34277000"/>
+      <rotation x="-0.06894300" y="-0.11373400" z="0.91382910" w="0.38370300"/>
+      <scaleXY value="0.76308500"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3485519514"/>
+      <position x="3847.63900000" y="-5257.12000000" z="101.02700000"/>
+      <rotation x="-0.10780900" y="-0.08831901" z="-0.02289800" w="0.98997610"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="617061723"/>
+      <position x="3837.14500000" y="-5208.03300000" z="96.74191000"/>
+      <rotation x="-0.02872299" y="0.05518698" z="0.24997090" w="0.96625250"/>
+      <scaleXY value="0.76308500"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3753529518"/>
+      <position x="3834.91400000" y="-5209.78100000" z="97.43528000"/>
+      <rotation x="-0.00885100" y="0.01133001" z="0.42264520" w="0.90618120"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3932591239"/>
+      <position x="3846.94100000" y="-5258.35400000" z="101.61050000"/>
+      <rotation x="-0.08324004" y="-0.11177710" z="0.21727910" w="0.96610910"/>
+      <scaleXY value="0.75247400"/>
+      <scaleZ value="0.75247400"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2129066195"/>
+      <position x="3851.01700000" y="-5274.96700000" z="108.03780000"/>
+      <rotation x="-0.06907705" y="0.13214910" z="0.11027710" w="0.98265150"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1405747297"/>
+      <position x="3851.46200000" y="-5247.35700000" z="100.08230000"/>
+      <rotation x="0.01281300" y="-0.00720400" z="0.99818810" w="-0.05834701"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1754921735"/>
+      <position x="3859.11300000" y="-5230.04100000" z="99.46843000"/>
+      <rotation x="-0.12363800" y="0.08335900" z="-0.37059900" w="0.91674500"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1968226147"/>
+      <position x="3846.41500000" y="-5264.45700000" z="103.25930000"/>
+      <rotation x="0.11326900" y="-0.10167700" z="0.78842490" w="0.59600190"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="500274672"/>
+      <position x="3847.61100000" y="-5262.73900000" z="103.48060000"/>
+      <rotation x="-0.12236500" y="-0.09744798" z="-0.68028800" w="0.71605800"/>
+      <scaleXY value="0.62886200"/>
+      <scaleZ value="0.62886200"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="4112679648"/>
+      <position x="3848.28600000" y="-5260.52400000" z="102.85740000"/>
+      <rotation x="0.01643800" y="-0.15419500" z="0.27089400" w="0.95003690"/>
+      <scaleXY value="0.58276700"/>
+      <scaleZ value="0.58276800"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2859909494"/>
+      <position x="3853.54300000" y="-5254.65900000" z="102.20990000"/>
+      <rotation x="0.05685900" y="-0.16357200" z="0.96624220" w="0.19075500"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="503248557"/>
+      <position x="3858.62900000" y="-5244.82000000" z="102.11040000"/>
+      <rotation x="0.13761700" y="-0.05697098" z="0.93780680" w="-0.31358290"/>
+      <scaleXY value="0.79288000"/>
+      <scaleZ value="0.79288000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3835902468"/>
+      <position x="3872.04700000" y="-5237.71900000" z="106.00130000"/>
+      <rotation x="0.00897100" y="0.14884410" z="0.60125930" w="0.78501740"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="1293600512"/>
+      <position x="3855.21900000" y="-5238.79500000" z="99.04635000"/>
+      <rotation x="0.01491700" y="0.00283400" z="0.89681600" w="-0.44214300"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="4038109910"/>
+      <position x="3855.65700000" y="-5233.49800000" z="98.28796000"/>
+      <rotation x="0.01350800" y="0.00492500" z="0.73165520" w="-0.68152330"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3772571910"/>
+      <position x="3859.93900000" y="-5242.67500000" z="101.86720000"/>
+      <rotation x="-0.06432702" y="-0.11485800" z="-0.11649400" w="0.98442820"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="992458151"/>
+      <position x="3857.94000000" y="-5242.06600000" z="100.68770000"/>
+      <rotation x="-0.06082602" y="-0.10804800" z="-0.19990910" w="0.97193740"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2701116471"/>
+      <position x="3844.99400000" y="-5161.78400000" z="99.52680000"/>
+      <rotation x="0.03301399" y="-0.03548899" z="-0.18940190" w="0.98070260"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="957631118"/>
+      <position x="3848.95300000" y="-5159.24400000" z="102.57960000"/>
+      <rotation x="0.05884098" y="-0.08008197" z="0.26914290" w="0.95795970"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="684681092"/>
+      <position x="3848.30000000" y="-5157.16200000" z="103.11960000"/>
+      <rotation x="0.06020399" y="-0.06892500" z="0.20472090" w="0.97453280"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2099343188"/>
+      <position x="3852.82500000" y="-5233.60400000" z="97.45976000"/>
+      <rotation x="0.06135601" y="0.01030200" z="0.84205410" w="-0.53579310"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="1622251555"/>
+      <position x="3849.64600000" y="-5155.43900000" z="104.51070000"/>
+      <rotation x="0.18659210" y="0.03001801" z="0.98050540" w="0.05377202"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3678180244"/>
+      <position x="3880.76800000" y="-5237.31600000" z="107.42500000"/>
+      <rotation x="-0.13298900" y="0.00158700" z="0.79482210" w="-0.59208910"/>
+      <scaleXY value="0.76308500"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2568003416"/>
+      <position x="3862.71000000" y="-5237.12400000" z="101.94770000"/>
+      <rotation x="0.11873800" y="-0.03239300" z="0.97329620" w="-0.19376900"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="4022129666"/>
+      <position x="3868.16600000" y="-5094.59400000" z="108.58600000"/>
+      <rotation x="-0.02146201" y="0.18776910" z="-0.00892400" w="0.98193810"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="4222409535"/>
+      <position x="3869.66400000" y="-5093.00000000" z="108.76460000"/>
+      <rotation x="-0.07160299" y="-0.05699199" z="0.96416290" w="-0.24902800"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3403327009"/>
+      <position x="3869.20300000" y="-5090.86900000" z="108.79960000"/>
+      <rotation x="-0.08268601" y="-0.05512101" z="0.94466410" w="-0.31262500"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2548024891"/>
+      <position x="3873.37900000" y="-5088.70000000" z="108.81320000"/>
+      <rotation x="-0.03696000" y="-0.03135800" z="0.98833110" w="0.14440300"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="1131208123"/>
+      <position x="3867.36600000" y="-5085.16600000" z="108.54730000"/>
+      <rotation x="-0.07625901" y="0.10663600" z="0.57470300" w="0.80779310"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2846089045"/>
+      <position x="3870.00600000" y="-5085.76500000" z="108.69340000"/>
+      <rotation x="-0.03343100" y="0.00284200" z="0.23940500" w="0.97033990"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2291223153"/>
+      <position x="3868.01400000" y="-5083.83400000" z="108.62870000"/>
+      <rotation x="0.02699299" y="0.12917000" z="-0.15842190" w="0.97851370"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2507825450"/>
+      <position x="3875.91200000" y="-5077.26500000" z="109.32320000"/>
+      <rotation x="-0.02907401" y="0.05500302" z="0.24380310" w="0.96782720"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="1529910294"/>
+      <position x="3870.89300000" y="-5074.53100000" z="109.06140000"/>
+      <rotation x="-0.00738100" y="0.01326900" z="0.13768300" w="0.99035990"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="1667474044"/>
+      <position x="3873.70300000" y="-5079.04100000" z="109.13080000"/>
+      <rotation x="-0.00892300" y="0.01127400" z="0.41685720" w="0.90885830"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3058302539"/>
+      <position x="3863.68700000" y="-5081.16600000" z="108.38820000"/>
+      <rotation x="-0.31240800" y="-0.21182700" z="0.84021500" w="-0.38931900"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="1263354556"/>
+      <position x="3865.88100000" y="-5080.34400000" z="108.60330000"/>
+      <rotation x="-0.00659100" y="0.12290100" z="-0.12214200" w="0.98485190"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3224139246"/>
+      <position x="3864.78800000" y="-5074.23600000" z="109.15610000"/>
+      <rotation x="-0.12926010" y="0.02494301" z="0.89784840" w="0.42016420"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="4142186883"/>
+      <position x="3866.75600000" y="-5073.53100000" z="108.85500000"/>
+      <rotation x="-0.12169500" y="0.02376101" z="0.85975910" w="0.49541910"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3415279880"/>
+      <position x="3864.55900000" y="-5071.73000000" z="109.26950000"/>
+      <rotation x="0.01080400" y="0.14855100" z="0.00275400" w="0.98884190"/>
+      <scaleXY value="0.79288000"/>
+      <scaleZ value="0.79288000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3011486586"/>
+      <position x="3868.79400000" y="-5065.41800000" z="109.60990000"/>
+      <rotation x="0.00280900" y="0.01442900" z="-0.25852100" w="0.96589380"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="541148319"/>
+      <position x="3862.76400000" y="-5060.80400000" z="109.01500000"/>
+      <rotation x="0.13739300" y="0.10541400" z="-0.48493790" w="0.85723180"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="3492700501"/>
+      <position x="3859.23300000" y="-5049.19600000" z="109.71010000"/>
+      <rotation x="-0.13228300" y="0.04386500" z="0.98542290" w="0.09756398"/>
+      <scaleXY value="0.75247400"/>
+      <scaleZ value="0.75247400"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2362301318"/>
+      <position x="3866.03200000" y="-5055.30500000" z="109.33120000"/>
+      <rotation x="-0.11774190" y="0.07456496" z="0.93254860" w="0.33306190"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="734096279"/>
+      <position x="3858.75000000" y="-5048.29200000" z="109.29310000"/>
+      <rotation x="-0.10010700" y="0.10048000" z="0.10530500" w="0.98427300"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2897563468"/>
+      <position x="3856.85800000" y="-5048.25800000" z="109.67030000"/>
+      <rotation x="-0.14120200" y="-0.06409499" z="0.98702680" w="0.04161500"/>
+      <scaleXY value="0.58276800"/>
+      <scaleZ value="0.58276800"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1549815640"/>
+      <position x="3856.07700000" y="-5046.07800000" z="109.71990000"/>
+      <rotation x="-0.13098500" y="0.08551199" z="0.46579290" w="0.87095790"/>
+      <scaleXY value="0.62886200"/>
+      <scaleZ value="0.62886200"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="2865035791"/>
+      <position x="3856.01100000" y="-5043.98600000" z="109.35530000"/>
+      <rotation x="-0.06089703" y="-0.13949710" z="0.81370550" w="-0.56099520"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="926665787"/>
+      <position x="3825.88300000" y="-5279.57700000" z="104.48460000"/>
+      <rotation x="0.13645210" y="0.06013303" z="0.97313840" w="-0.17540410"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_01_a</archetypeName>
+      <flags value="5767173"/>
+      <guid value="296248811"/>
+      <position x="3828.43000000" y="-5281.88900000" z="106.17590000"/>
+      <rotation x="0.02620499" y="-0.14718300" z="-0.12213600" w="0.98118970"/>
+      <scaleXY value="0.58941400"/>
+      <scaleZ value="0.58941400"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767173"/>
+      <guid value="1393852098"/>
+      <position x="3832.44300000" y="-5263.48100000" z="99.34167000"/>
+      <rotation x="0.01754501" y="0.14807900" z="0.64555630" w="0.74901410"/>
+      <scaleXY value="0.76308600"/>
+      <scaleZ value="0.76308600"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04b</archetypeName>
+      <flags value="5767169"/>
+      <guid value="2073533629"/>
+      <position x="3893.04100000" y="-5074.92000000" z="110.15040000"/>
+      <rotation x="-0.00969500" y="-0.00407700" z="-0.38763010" w="0.92175500"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="44875126"/>
+      <position x="3929.02800000" y="-5110.98100000" z="109.73280000"/>
+      <rotation x="-0.00717700" y="-0.00706600" z="-0.70154910" w="0.71255000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="279111996"/>
+      <position x="3938.77400000" y="-5057.48900000" z="109.54550000"/>
+      <rotation x="0.00360900" y="0.00390000" z="0.73394600" w="-0.67918700"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="3523455362"/>
+      <position x="3971.89200000" y="-5068.43600000" z="108.97310000"/>
+      <rotation x="-0.00744800" y="-0.00169300" z="-0.22168010" w="0.97508950"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_02</archetypeName>
+      <flags value="5767169"/>
+      <guid value="4132669812"/>
+      <position x="3927.19400000" y="-5065.87600000" z="109.59440000"/>
+      <rotation x="0.00110800" y="0.00260600" z="0.92021540" w="-0.39140210"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_02_a</archetypeName>
+      <flags value="1572865"/>
+      <guid value="3152450632"/>
+      <position x="3895.78700000" y="-5017.35500000" z="109.98420000"/>
+      <rotation x="0.02866899" y="0.12628800" z="0.96697560" w="-0.21951690"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_02_a</archetypeName>
+      <flags value="1572865"/>
+      <guid value="3511414973"/>
+      <position x="3903.93600000" y="-5019.75300000" z="109.96030000"/>
+      <rotation x="0.02684801" y="0.09803404" z="0.99114850" w="0.08540103"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_02_a</archetypeName>
+      <flags value="1572864"/>
+      <guid value="2292294187"/>
+      <position x="3867.77000000" y="-5031.12800000" z="110.30390000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.81915180" w="0.57357690"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_02_a</archetypeName>
+      <flags value="1572864"/>
+      <guid value="3014705652"/>
+      <position x="3863.42300000" y="-5028.17400000" z="110.12090000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99452190" w="0.10452900"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04</archetypeName>
+      <flags value="1572864"/>
+      <guid value="4165779526"/>
+      <position x="3989.66300000" y="-5033.61700000" z="107.49650000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.97629590" w="-0.21644000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04</archetypeName>
+      <flags value="1572864"/>
+      <guid value="17645338"/>
+      <position x="3983.42100000" y="-5032.42700000" z="107.30190000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.60876140" w="0.79335340"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04</archetypeName>
+      <flags value="1572864"/>
+      <guid value="3725724090"/>
+      <position x="3988.30800000" y="-5057.78000000" z="108.70040000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.81411570" w="-0.58070290"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04</archetypeName>
+      <flags value="1572864"/>
+      <guid value="2070479390"/>
+      <position x="3990.04500000" y="-5058.45100000" z="108.63350000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.77162490" w="-0.63607790"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04</archetypeName>
+      <flags value="1572864"/>
+      <guid value="1480663457"/>
+      <position x="3972.17300000" y="-5054.82200000" z="108.79950000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.90630780" w="-0.42261800"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04</archetypeName>
+      <flags value="1572864"/>
+      <guid value="2554211228"/>
+      <position x="3968.24500000" y="-5036.74000000" z="108.82730000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.96814750" w="0.25037990"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04</archetypeName>
+      <flags value="1572864"/>
+      <guid value="768873084"/>
+      <position x="3892.88800000" y="-5018.94700000" z="110.43620000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.90258530" w="-0.43051120"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04</archetypeName>
+      <flags value="1572864"/>
+      <guid value="1587424300"/>
+      <position x="3892.44500000" y="-5015.52400000" z="109.89690000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.85716730" w="0.51503820"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04</archetypeName>
+      <flags value="1572864"/>
+      <guid value="181751843"/>
+      <position x="3887.17000000" y="-5035.79800000" z="109.98050000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.34202000" w="0.93969270"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_tree_03_h</archetypeName>
+      <flags value="1572876"/>
+      <guid value="2934749014"/>
+      <position x="3864.47200000" y="-5006.77600000" z="109.38090000"/>
+      <rotation x="0.08559303" y="0.00000000" z="0.00000000" w="0.99633020"/>
+      <scaleXY value="1.22874000"/>
+      <scaleZ value="1.22874000"/>
+      <parentIndex value="3"/>
+      <lodDist value="299.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_tree_03_h</archetypeName>
+      <flags value="1572876"/>
+      <guid value="495289463"/>
+      <position x="3865.32000000" y="-5001.32600000" z="105.37560000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.81915230" w="0.57357610"/>
+      <scaleXY value="1.06695600"/>
+      <scaleZ value="1.06695600"/>
+      <parentIndex value="3"/>
+      <lodDist value="299.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_rail_signals02</archetypeName>
+      <flags value="1572876"/>
+      <guid value="3975383737"/>
+      <position x="3883.92200000" y="-5045.04300000" z="109.56550000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.08715597" w="0.99619470"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="2"/>
+      <lodDist value="100.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_pylon_01</archetypeName>
+      <flags value="1572876"/>
+      <guid value="834723563"/>
+      <position x="3892.85000000" y="-5189.18400000" z="109.48200000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99691740" w="0.07845903"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="6"/>
+      <lodDist value="180.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_pylon_01</archetypeName>
+      <flags value="1572876"/>
+      <guid value="2903575326"/>
+      <position x="3916.19800000" y="-5320.93000000" z="109.11170000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.08715597" w="0.99619470"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="5"/>
+      <lodDist value="180.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_pylon_01</archetypeName>
+      <flags value="1572876"/>
+      <guid value="1534713816"/>
+      <position x="3938.35800000" y="-5446.60600000" z="108.45150000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.08715597" w="0.99619470"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="4"/>
+      <lodDist value="180.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>PLG_01_Props_l_014</archetypeName>
+      <flags value="1572864"/>
+      <guid value="4027120620"/>
+      <position x="3913.76800000" y="-5261.90500000" z="89.38308000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="375.00000000"/>
+      <childLodDist value="100.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_t_ml_02</archetypeName>
+      <flags value="1572868"/>
+      <guid value="1120087009"/>
+      <position x="3984.84000000" y="-5015.26900000" z="99.37490000"/>
+      <rotation x="-0.01497601" y="-0.03391901" z="-0.68704830" w="0.72566520"/>
+      <scaleXY value="1.03262200"/>
+      <scaleZ value="1.03262300"/>
+      <parentIndex value="-1"/>
+      <lodDist value="-1.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_03</archetypeName>
+      <flags value="1572864"/>
+      <guid value="3528584892"/>
+      <position x="3977.86800000" y="-5012.42900000" z="98.18653000"/>
+      <rotation x="0.11659610" y="-0.00611000" z="-0.05197803" w="0.99179960"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_t_ml_02</archetypeName>
+      <flags value="1572868"/>
+      <guid value="2290010862"/>
+      <position x="3992.62100000" y="-5012.50200000" z="97.42586000"/>
+      <rotation x="-0.01509000" y="0.03386800" z="0.99906600" w="0.02219300"/>
+      <scaleXY value="0.86088400"/>
+      <scaleZ value="0.86088500"/>
+      <parentIndex value="-1"/>
+      <lodDist value="-1.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_t_ml_02</archetypeName>
+      <flags value="1572868"/>
+      <guid value="1369624552"/>
+      <position x="3910.35300000" y="-4960.61500000" z="94.41618000"/>
+      <rotation x="-0.03306498" y="0.01677699" z="0.76153460" w="0.64706270"/>
+      <scaleXY value="1.03262200"/>
+      <scaleZ value="1.03262300"/>
+      <parentIndex value="-1"/>
+      <lodDist value="-1.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_t_ml_02</archetypeName>
+      <flags value="1572869"/>
+      <guid value="332057921"/>
+      <position x="3962.86000000" y="-5003.91200000" z="93.77956000"/>
+      <rotation x="0.07413000" y="-0.03723600" z="-0.60954000" w="0.78840300"/>
+      <scaleXY value="0.86088400"/>
+      <scaleZ value="0.86088500"/>
+      <parentIndex value="-1"/>
+      <lodDist value="-1.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_field_04</archetypeName>
+      <flags value="1572864"/>
+      <guid value="2148538666"/>
+      <position x="3971.31800000" y="-5054.05500000" z="108.82510000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.53446290" w="0.84519190"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_01</archetypeName>
+      <flags value="1572864"/>
+      <guid value="2586894035"/>
+      <position x="3969.46600000" y="-5053.29800000" z="108.98780000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.95342230" w="0.30163910"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_field_03</archetypeName>
+      <flags value="1572864"/>
+      <guid value="1565250240"/>
+      <position x="3970.00200000" y="-5053.34300000" z="108.90710000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.53446290" w="0.84519190"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_field_04</archetypeName>
+      <flags value="1572864"/>
+      <guid value="504415914"/>
+      <position x="3981.05700000" y="-5056.67600000" z="108.96800000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.53446290" w="0.84519190"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_field_03</archetypeName>
+      <flags value="1572864"/>
+      <guid value="2819839362"/>
+      <position x="3979.21500000" y="-5055.21900000" z="109.02900000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.53446290" w="0.84519190"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_Field_01</archetypeName>
+      <flags value="1572864"/>
+      <guid value="2171093120"/>
+      <position x="3978.67900000" y="-5055.17400000" z="109.10970000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.95342230" w="0.30163910"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>Prop_Snow_T_ml_01</archetypeName>
+      <flags value="1572869"/>
+      <guid value="2551895856"/>
+      <position x="3867.63300000" y="-5034.41400000" z="108.92890000"/>
+      <rotation x="-0.05080898" y="0.03904299" z="0.84947670" w="-0.52372080"/>
+      <scaleXY value="1.11610000"/>
+      <scaleZ value="1.11610000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="370.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_04</archetypeName>
+      <flags value="1572868"/>
+      <guid value="204027777"/>
+      <position x="3867.99700000" y="-5034.71900000" z="109.98050000"/>
+      <rotation x="-0.16709010" y="0.00186500" z="0.32841710" w="0.92963410"/>
+      <scaleXY value="1.32895000"/>
+      <scaleZ value="1.32895000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_bush_03</archetypeName>
+      <flags value="1572864"/>
+      <guid value="4105857979"/>
+      <position x="3903.28200000" y="-5021.48300000" z="109.33380000"/>
+      <rotation x="-0.10191600" y="0.00534100" z="-0.05206301" w="0.99341540"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_t_ml_03</archetypeName>
+      <flags value="1572868"/>
+      <guid value="1438425232"/>
+      <position x="3881.42800000" y="-5098.40300000" z="108.55930000"/>
+      <rotation x="0.01699700" y="0.01527100" z="0.91367100" w="0.40581200"/>
+      <scaleXY value="0.58363400"/>
+      <scaleZ value="0.58363400"/>
+      <parentIndex value="-1"/>
+      <lodDist value="-1.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>prop_snow_t_ml_03</archetypeName>
+      <flags value="1572868"/>
+      <guid value="591283262"/>
+      <position x="3881.63700000" y="-5092.00300000" z="108.97300000"/>
+      <rotation x="-0.01019000" y="0.02045100" z="-0.14772100" w="0.98876510"/>
+      <scaleXY value="0.70221400"/>
+      <scaleZ value="0.70221400"/>
+      <parentIndex value="-1"/>
+      <lodDist value="-1.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+  </entities>
+  <containerLods/>
+  <boxOccluders/>
+  <occludeModels/>
+  <physicsDictionaries>
+    <Item>v_farm</Item>
+    <Item>v_snow</Item>
+  </physicsDictionaries>
+  <instancedData>
+    <ImapLink/>
+    <PropInstanceList/>
+    <GrassInstanceList/>
+  </instancedData>
+  <timeCycleModifiers/>
+  <carGenerators/>
+  <LODLightsSOA>
+    <direction/>
+    <falloff/>
+    <falloffExponent/>
+    <timeAndStateFlags/>
+    <hash/>
+    <coneInnerAngle/>
+    <coneOuterAngleOrCapExt/>
+    <coronaIntensity/>
+  </LODLightsSOA>
+  <DistantLODLightsSOA>
+    <position/>
+    <RGBI/>
+    <numStreetLights value="0"/>
+    <category value="0"/>
+  </DistantLODLightsSOA>
+  <block>
+    <version value="0"/>
+    <flags value="0"/>
+    <name/>
+    <exportedBy/>
+    <owner/>
+    <time/>
+  </block>
+</CMapData>

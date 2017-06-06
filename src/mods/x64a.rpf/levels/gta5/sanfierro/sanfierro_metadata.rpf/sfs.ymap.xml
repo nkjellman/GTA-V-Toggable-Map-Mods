@@ -1,0 +1,4133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CMapData>
+  <name>hash_BCAC9E2A</name>
+  <parent>hash_64BF732A</parent>
+  <flags value="1" />
+  <hash_6A675035 value="65" />
+  <hash_DD22821F x="-8192.0" y="-8192.0" z="-6000.0" />
+  <hash_A22EA335 x="8192.0" y="8192.0" z="6000.0" />
+  <hash_1C75BCF1 x="-8192.0" y="-8192.0" z="-6000.0" />
+  <hash_6D074437 x="8192.0" y="8192.0" z="6000.0" />
+  <entities>
+    <Item type="CEntityDef">
+      <archetypeName>hash_ECE142C9</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6199.643" y="-1409.483" z="0.375" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_578910DD</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6194.268" y="-1677.506" z="0.289" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_F58C2A0B</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6197.463" y="-1941.53" z="-0.727" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_765710AD</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6197.315" y="-2150.405" z="0.336" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_13B6AB29</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5775.987" y="-2353.506" z="133.672" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_1900B5A1</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5700.19" y="-2156.241" z="72.508" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_02D48949</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5938.049" y="-2190.092" z="33.172" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_348E6CBC</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6128.901" y="-2334.124" z="6.367" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_5BE5E64B</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5966.541" y="-2150.53" z="20.656" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_AA684FDD</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5948.619" y="-1362.764" z="9.211" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_38CDC2D2</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5628.666" y="-1636.225" z="34.281" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_51FC2797</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5873.197" y="-2178.022" z="57.742" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_3BE195EA</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6232.08" y="-2463.85" z="11.031" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_DBC93E0A</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5730.424" y="-2003.803" z="44.68" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_57B56EC6</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5944.518" y="-2178.405" z="16.844" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_CA52E8E4</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5616.635" y="-2105.475" z="64.211" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_8C0B5369</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5623.346" y="-1997.538" z="46.773" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_D078F178</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5735.658" y="-2081.842" z="56.969" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_F7258573</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5827.151" y="-2029.952" z="31.758" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_A1869F90</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6203.518" y="-2302.28" z="-1.859" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_5802BDBC</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5801.627" y="-2343.178" z="86.828" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_9093AEE1</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6041.807" y="-2342.952" z="35.195" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_45C51941</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5628.065" y="-2338.077" z="89.547" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_337FF4B7</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5637.721" y="-2165.202" z="74.172" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_37CA4497</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6161.307" y="-2553.569" z="6.203" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_73747A50</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6048.143" y="-2563.983" z="22.789" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_B50F77D8</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5636.869" y="-2556.639" z="60.555" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_5385C011</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6229.627" y="-2614.694" z="-2.516" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_8EADBED5</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5676.354" y="-1732.92" z="34.242" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_1FC9CF27</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5500.572" y="-2744.483" z="17.727" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_ABEDADEC</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6071.901" y="-1362.905" z="4.758" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_B97A6A99</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5821.237" y="-2446.225" z="141.57" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_AE674484</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5859.674" y="-2521.944" z="63.766" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_65F0F6D2</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5661.33" y="-1902.311" z="42.438" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_F986B97F</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6129.229" y="-2453.561" z="23.336" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_E27CBD05</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6118.369" y="-2086.983" z="22.609" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_AE486694</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5968.432" y="-1846.288" z="11.641" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_E4C94E5C</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6050.783" y="-1732.709" z="15.852" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_31FB4D09</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5847.799" y="-1349.186" z="26.5" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_B36FA18C</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5909.932" y="-1484.741" z="14.063" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_5894DD09</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5879.815" y="-1662.483" z="16.297" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_5A817A2E</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5708.072" y="-1340.061" z="45.977" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_7724B7B0</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5690.354" y="-1473.006" z="44.18" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_9BA4F730</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5877.783" y="-1881.522" z="19.047" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_D0E6768E</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5900.362" y="-1756.225" z="13.82" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_D43CF215</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5772.487" y="-1644.1" z="37.211" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_AB48249F</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5652.666" y="-1740.28" z="44.984" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_15D0F7EF</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5763.213" y="-1781.639" z="38.375" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_638FB899</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5782.619" y="-1901.741" z="35.289" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_E65941D3</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6069.838" y="-1837.233" z="16.672" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_E1BE772E</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6067.987" y="-1948.014" z="17.102" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_EE37F867</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5971.901" y="-1924.194" z="12.023" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_633D35D7</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6118.518" y="-2236.436" z="21.453" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_D9F99B3D</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5633.877" y="-1836.334" z="42.445" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_E75FD8CF</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5947.119" y="-1651.342" z="11.734" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_AF6FA354</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5909.557" y="-1581.756" z="17.18" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_25D24EF3</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5865.229" y="-1756.608" z="9.539" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_D868BD48</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5809.229" y="-1792.014" z="28.383" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_52D07ABC</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5805.01" y="-1811.428" z="20.891" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_CFC3B62C</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5823.572" y="-1764.959" z="18.875" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_F10D3733</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5793.276" y="-1756.506" z="24.648" />
+      <rotation x="0.0" y="0.0" z="-0.7071068" w="0.7071068" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_ACAED294</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5822.643" y="-1724.264" z="21.273" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_2658C1A7</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5766.229" y="-1788.819" z="34.117" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_D9CA865D</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5760.205" y="-1765.663" z="29.578" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_586CF9C7</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5753.143" y="-1721.803" z="36.242" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_096CDDAA</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5713.994" y="-1821.272" z="34.242" />
+      <rotation x="0.0" y="0.0" z="0.7071068" w="0.7071067" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_6C23DB4D</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5728.799" y="-1755.928" z="36.0" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_5EB9C884</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5631.908" y="-1795.092" z="40.297" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_60BF0C5D</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5645.697" y="-1811.475" z="34.25" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_61DBA5E1</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5630.807" y="-1774.155" z="42.633" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_1EF45369</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5578.737" y="-1784.303" z="47.484" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_6DF3E6F8</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5568.393" y="-1756.108" z="40.297" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_0593A7FC</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5607.362" y="-1751.475" z="34.313" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_B3869B03</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5634.002" y="-1731.475" z="35.508" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_7DD3C686</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5634.463" y="-1720.256" z="34.25" />
+      <rotation x="0.0" y="0.0" z="-0.7071068" w="0.7071068" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_FBECE64C</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5594.19" y="-1730.6" z="42.555" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_F8F1AF7F</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5566.065" y="-1717.483" z="41.773" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_E9016AAE</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5842.221" y="-1686.623" z="14.391" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_DF3A938E</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5821.744" y="-1702.475" z="17.391" />
+      <rotation x="0.0" y="0.0" z="1.0" w="-0.000000043711" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_2777E474</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5773.08" y="-1688.498" z="28.789" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_E12AB86C</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5878.377" y="-1619.92" z="10.188" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_DAEB2895</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5804.846" y="-1632.748" z="18.672" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_61572476</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5771.862" y="-1616.413" z="27.805" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_AA0E2942</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5716.768" y="-1616.077" z="34.109" />
+      <rotation x="0.0" y="0.0" z="0.7268191" w="0.686829" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_31AE860A</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5748.877" y="-1606.678" z="49.469" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_2EB92F32</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5863.401" y="-1581.834" z="3.734" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_AF8CB22F</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5739.44" y="-1579.756" z="34.273" />
+      <rotation x="0.0" y="0.0" z="0.9453304" w="0.3261141" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_5C732964</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6071.862" y="-1544.483" z="6.75" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_31038EB3</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6068.346" y="-1540.764" z="5.977" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_6254CE43</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6049.252" y="-1518.678" z="11.125" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_D9414725</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5968.088" y="-1552.725" z="3.891" />
+      <rotation x="0.0" y="0.0" z="0.7071068" w="0.7071067" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_896AAC8A</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5904.729" y="-1550.069" z="5.922" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_FF4687E1</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5883.557" y="-1558.928" z="12.586" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_0C965663</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5918.479" y="-1542.264" z="7.969" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_505A9A8E</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5886.393" y="-1536.639" z="5.852" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_E40919CF</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5968.346" y="-1518.186" z="3.258" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_1FCA1184</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5968.893" y="-1488.186" z="12.102" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_CC74A9C2</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5909.065" y="-1483.264" z="6.445" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_C762EEF7</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5867.08" y="-1476.491" z="18.898" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_16B9565C</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5872.19" y="-1474.42" z="10.508" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_0FA170FF</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6106.979" y="-1456.108" z="5.156" />
+      <rotation x="0.0" y="0.0" z="-0.7071068" w="0.7071068" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_74073B21</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6023.502" y="-1452.905" z="4.0" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_1102C621</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5998.354" y="-1429.35" z="12.766" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_E414A9D9</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6076.682" y="-1365.577" z="21.578" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_38634286</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6144.838" y="-1356.733" z="3.438" />
+      <rotation x="0.0" y="0.0" z="0.7071068" w="0.7071067" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_BEC7BAB0</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5998.346" y="-1365.631" z="3.383" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_BA47C64D</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5998.213" y="-1363.334" z="3.266" />
+      <rotation x="0.0" y="0.0" z="-0.7071068" w="0.7071068" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_CDA8E040</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5998.346" y="-1301.913" z="12.719" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_70D020B9</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5866.401" y="-1421.225" z="12.078" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_2B6F92DB</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5938.744" y="-1372.881" z="8.367" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_39247CF9</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5929.463" y="-1365.147" z="15.898" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_8E5BD661</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5872.213" y="-1365.139" z="9.477" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_5AFE4579</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5879.244" y="-1331.303" z="16.375" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_396035BE</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5860.283" y="-1343.725" z="14.43" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_54821245</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5876.502" y="-1301.569" z="23.188" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_C6C2789D</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5845.635" y="-1463.498" z="13.602" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_E8BECDA7</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5837.346" y="-1543.319" z="10.734" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_716BC451</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5831.104" y="-1485.67" z="19.063" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_09CF17B3</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5773.658" y="-1571.444" z="19.25" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_0250EB76</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5763.393" y="-1528.936" z="18.75" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_922F8B78</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5719.487" y="-1511.6" z="20.047" />
+      <rotation x="0.0" y="0.0" z="0.9212018" w="0.3890852" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_A0BB148C</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5708.619" y="-1503.748" z="34.219" />
+      <rotation x="0.0" y="0.0" z="-0.3841181" w="0.9232839" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_2D172EA8</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5855.26" y="-1392.209" z="11.281" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_B42D121A</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5846.432" y="-1364.413" z="25.719" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_F1401744</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5768.697" y="-1427.959" z="23.922" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_6DA6F10E</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5771.268" y="-1393.1" z="31.148" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_56BCBF0E</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5791.908" y="-1375.538" z="26.211" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_46826010</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5611.658" y="-1431.272" z="36.398" />
+      <rotation x="0.0" y="0.0" z="-0.2290951" w="0.973404" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_19C882CD</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5638.276" y="-1416.803" z="30.445" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_DA21968D</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5702.33" y="-1411.702" z="38.32" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_3938C57D</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5676.221" y="-1403.756" z="34.086" />
+      <rotation x="0.0" y="0.0" z="-0.398982" w="0.9169587" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_543064FE</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5724.799" y="-1399.584" z="61.117" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_07C469F9</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5828.932" y="-1296.061" z="21.0" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_7FD7B226</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5809.221" y="-1333.35" z="23.203" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_55E54117</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5815.596" y="-1294.202" z="31.133" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_ED7AB551</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5760.721" y="-1220.108" z="39.563" />
+      <rotation x="0.0" y="0.0" z="1.0" w="-0.000000043711" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_68D5C853</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5695.51" y="-1333.288" z="34.063" />
+      <rotation x="0.0" y="0.0" z="-0.398982" w="0.9169587" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_DD167838</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5758.557" y="-1319.702" z="30.398" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_197A9DD4</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5688.393" y="-1296.014" z="55.344" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_8F0B1FC8</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5729.135" y="-1259.506" z="28.305" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_4EF6EB4C</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5745.705" y="-1226.686" z="24.438" />
+      <rotation x="0.0" y="0.0" z="1.0" w="-0.000000043711" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_83FA33BD</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5745.705" y="-1226.686" z="21.57" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_4FD64E38</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5820.705" y="-2413.491" z="139.461" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_CB651072</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5793.838" y="-2442.374" z="227.148" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_F6C5712B</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5747.572" y="-2279.53" z="114.109" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_061F0FFA</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5676.885" y="-2419.17" z="114.156" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_1E394012</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5566.994" y="-2552.366" z="73.227" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_222190A5</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5451.776" y="-2746.631" z="39.531" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_9E4DCFBF</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5806.447" y="-2076.608" z="30.023" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_E54073E5</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5742.744" y="-2074.834" z="35.063" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_D080A6CD</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5677.908" y="-2076.194" z="38.891" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_53EB0027</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5613.416" y="-2079.702" z="40.773" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_B73EB94F</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5801.862" y="-1949.108" z="21.18" />
+      <rotation x="0.0" y="0.0" z="1.0" w="-0.000000043711" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_F66033AB</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5752.69" y="-1893.186" z="37.734" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_B25D1629</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5688.643" y="-1885.631" z="34.313" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_8F9DEA1A</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5635.416" y="-1902.295" z="34.25" />
+      <rotation x="0.0" y="0.0" z="0.7071068" w="0.7071067" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_81AB3058</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5620.408" y="-1904.764" z="35.578" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_8D385AB0</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5577.572" y="-1898.295" z="40.281" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_10166B09</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5795.533" y="-1878.545" z="24.547" />
+      <rotation x="0.0" y="0.0" z="-0.7071068" w="0.7071068" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_67B944FE</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5753.197" y="-1881.506" z="30.102" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_94E8F9F6</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5608.049" y="-1871.475" z="34.313" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_AA4A71AD</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5628.979" y="-1846.475" z="37.0" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_7A2C96FD</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5753.729" y="-1842.272" z="36.32" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_48B3B1AE</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5580.127" y="-1839.311" z="43.336" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_6A09A71E</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6109.385" y="-2178.084" z="6.133" />
+      <rotation x="0.0" y="0.0" z="0.732152" w="0.6811413" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_1A97DC62</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6071.002" y="-2146.717" z="7.672" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_E911D5C4</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5856.018" y="-2217.616" z="80.422" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_5CB38C72</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6103.487" y="-2052.155" z="6.109" />
+      <rotation x="0.0" y="0.0" z="-0.6686334" w="0.7435922" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_D9311980</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6025.197" y="-2012.897" z="6.492" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_4F917236</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6020.916" y="-2035.811" z="5.75" />
+      <rotation x="0.0" y="0.0" z="0.9988477" w="0.0479927" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_46ADA922</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6014.588" y="-2082.928" z="34.539" />
+      <rotation x="0.0" y="0.0" z="-0.3841181" w="0.9232839" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_4653FC8F</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6013.447" y="-2082.694" z="6.039" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_F25DD48C</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5896.26" y="-2025.405" z="20.492" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_3AA446FC</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6099.533" y="-1904.834" z="6.117" />
+      <rotation x="0.0" y="0.0" z="0.719005" w="0.6950048" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_50F7D558</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6071.479" y="-1910.475" z="7.281" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_45DC4EEA</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6026.908" y="-1910.545" z="6.531" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_A4D79481</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5975.979" y="-1950.053" z="4.016" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_F1788437</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5969.776" y="-1908.827" z="4.422" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_17523779</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5925.166" y="-1909.084" z="4.422" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_EE2AB8DA</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5844.838" y="-1911.944" z="22.313" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_88BD480D</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6048.901" y="-1881.522" z="5.938" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_2824A565</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5998.346" y="-1881.491" z="3.266" />
+      <rotation x="0.0" y="0.0" z="-0.7071068" w="0.7071068" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_8CEA060F</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5947.791" y="-1881.522" z="3.086" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_D2A17014</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5894.768" y="-1878.561" z="3.266" />
+      <rotation x="0.0" y="0.0" z="-0.7071068" w="0.7071068" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_E2678FAC</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5850.377" y="-1871.522" z="11.148" />
+      <rotation x="0.0" y="0.0" z="0.9999995" w="0.001000003" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_F710E52A</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6026.916" y="-1852.702" z="5.922" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_D1ED6F80</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6071.557" y="-1851.53" z="7.281" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_BBC705EE</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5969.768" y="-1848.85" z="5.031" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_AF977BBD</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5925.213" y="-1849.084" z="4.422" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_CFC34049</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5843.51" y="-1840.545" z="22.313" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_63C69940</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6097.658" y="-1752.342" z="6.109" />
+      <rotation x="0.0" y="0.0" z="0.7071068" w="0.7071067" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_1A61591B</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6072.229" y="-1776.702" z="7.211" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_64446EF7</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6074.049" y="-1728.045" z="7.234" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_6B33297C</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6049.526" y="-1756.608" z="4.539" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_41EDBBE2</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6028.752" y="-1775.6" z="5.453" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_93BDF0B5</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6029.846" y="-1728.061" z="5.703" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_31F8A4A0</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6074.862" y="-1666.53" z="7.281" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_5C08F8D8</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6029.83" y="-1676.623" z="8.789" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_EBC3AAB3</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6033.33" y="-1642.584" z="5.781" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_76053DBD</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6099.487" y="-1613.538" z="6.117" />
+      <rotation x="0.0" y="0.0" z="-0.7071068" w="0.7071068" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_C0781E80</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6072.065" y="-1618.475" z="7.281" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_8EB41909</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6025.338" y="-1623.6" z="9.195" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_FBAACC6E</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6006.432" y="-1700.998" z="4.406" />
+      <rotation x="0.0" y="0.0" z="1.0" w="-0.000000043711" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_79DE48D7</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6000.455" y="-1750.053" z="3.258" />
+      <rotation x="0.0" y="0.0" z="-0.7071068" w="0.7071068" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_247F9E1B</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5983.682" y="-1812.116" z="4.242" />
+      <rotation x="0.0" y="0.0" z="0.09296919" w="0.9956689" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_1A5E8D11</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5947.174" y="-1756.608" z="23.813" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_C8A9E679</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5896.041" y="-1757.897" z="3.266" />
+      <rotation x="0.0" y="0.0" z="-0.7071068" w="0.7071068" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_28F2A399</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5998.463" y="-1651.389" z="3.266" />
+      <rotation x="0.0" y="0.0" z="-0.7071068" w="0.7071068" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_D0805E77</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5968.533" y="-1675.311" z="4.43" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_39F6C718</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5947.197" y="-1646.764" z="1.688" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_815080FB</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5923.987" y="-1675.334" z="4.383" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_986305EC</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5896.033" y="-1649.92" z="3.266" />
+      <rotation x="0.0" y="0.0" z="0.7071068" w="0.7071067" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_B09F5D71</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5968.666" y="-1623.6" z="4.102" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_EF0247FD</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-5924.502" y="-1622.491" z="3.898" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>hash_214D145A</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="-6011.908" y="-1584.163" z="4.484" />
+      <rotation x="0.0" y="0.0" z="1.0" w="-0.000000043711" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="0.0" />
+      <hash_CA974BCD value="0.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+  </entities>
+  <hash_AEFF8D15 />
+  <hash_ED70C614 />
+  <hash_7F1998DD />
+  <hash_38999564 />
+  <hash_9920DC29>
+    <hash_7FAE45E2 />
+    <hash_D3AF3360 />
+    <hash_0F3773DD />
+  </hash_9920DC29>
+  <timeCycleModifiers />
+  <hash_C200AB4C />
+  <hash_69C2C0FA>
+    <direction />
+    <falloff />
+    <falloffExponent />
+    <hash_B983BBE6 />
+    <hash />
+    <hash_455C3938 />
+    <hash_BC76ACC0 />
+    <hash_88A2B1FB />
+  </hash_69C2C0FA>
+  <hash_B0199551>
+    <position />
+    <RGBI />
+    <hash_DD11304B value="0" />
+    <category value="0" />
+  </hash_B0199551>
+  <block>
+    <version value="0" />
+    <flags value="0" />
+    <name />
+    <hash_76350055 />
+    <owner />
+    <time />
+  </block>
+</CMapData>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CMapData>
+  <name>hash_BCAC9E2A</name>
+  <parent>hash_64BF732A</parent>
+  <flags value="1" />
+  <hash_6A675035 value="65" />
+  <hash_DD22821F x="-9192.0" y="-9192.0" z="-6000.0" />
+  <hash_A22EA335 x="9192.0" y="9192.0" z="6000.0" />
+  <hash_1C75BCF1 x="-9192.0" y="-9192.0" z="-6000.0" />
+  <hash_6D074437 x="9192.0" y="9192.0" z="6000.0" />
+  <entities>
+    <Item type="CEntityDef">
+      <archetypeName>hash_995B5092</archetypeName>
+      <flags value="384" />
+      <guid value="0" />
+      <position x="5650.0" y="-5827.0" z="2275.0" />
+      <rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+      <hash_9CA32637 value="1.0" />
+      <hash_10FB7C42 value="1.0" />
+      <parentIndex value="-1" />
+      <lodDist value="3000.0" />
+      <hash_CA974BCD value="1500.0" />
+      <hash_6C8F1715>enum_hash_7D934F41</hash_6C8F1715>
+      <hash_A687AC89 value="0" />
+      <hash_2691F019>enum_hash_73D556CB</hash_2691F019>
+      <extensions />
+      <hash_18C1D587 value="255" />
+      <hash_23C0E543 value="255" />
+      <hash_3C852527 value="0" />
+    </Item>
+  </entities>
+  <hash_AEFF8D15 />
+  <hash_ED70C614 />
+  <hash_7F1998DD />
+  <hash_38999564 />
+  <hash_9920DC29>
+    <hash_7FAE45E2 />
+    <hash_D3AF3360 />
+    <hash_0F3773DD />
+  </hash_9920DC29>
+  <timeCycleModifiers />
+  <hash_C200AB4C />
+  <hash_69C2C0FA>
+    <direction />
+    <falloff />
+    <falloffExponent />
+    <hash_B983BBE6 />
+    <hash />
+    <hash_455C3938 />
+    <hash_BC76ACC0 />
+    <hash_88A2B1FB />
+  </hash_69C2C0FA>
+  <hash_B0199551>
+    <position />
+    <RGBI />
+    <hash_DD11304B value="0" />
+    <category value="0" />
+  </hash_B0199551>
+  <block>
+    <version value="0" />
+    <flags value="0" />
+    <name />
+    <hash_76350055 />
+    <owner />
+    <time />
+  </block>
+</CMapData>

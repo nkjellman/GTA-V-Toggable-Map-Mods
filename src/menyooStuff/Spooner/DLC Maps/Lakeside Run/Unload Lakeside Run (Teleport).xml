@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<SpoonerPlacements>
+	<Note />
+	<AudioFile volume="400" />
+	<ClearDatabase>false</ClearDatabase>
+	<ClearWorld>0</ClearWorld>
+	<ClearMarkers>false</ClearMarkers>
+	<IPLsToLoad load_mp_maps="false" load_sp_maps="false" />
+	<IPLsToRemove>
+		<IPL>lakeside</IPL>
+	</IPLsToRemove>
+	<WeatherToSet />
+	<StartTaskSequencesOnLoad>true</StartTaskSequencesOnLoad>
+	<ReferenceCoords>
+		<X>-1037.44666</X>
+		<Y>-2737.8208</Y>
+		<Z>20.1692905</Z>
+	</ReferenceCoords>
+</SpoonerPlacements>

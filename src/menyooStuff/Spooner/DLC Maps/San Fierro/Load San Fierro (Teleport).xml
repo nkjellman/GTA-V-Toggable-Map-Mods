@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<SpoonerPlacements>
+	<Note />
+	<AudioFile volume="400" />
+	<ClearDatabase>false</ClearDatabase>
+	<ClearWorld>0</ClearWorld>
+	<ClearMarkers>false</ClearMarkers>
+	<IPLsToLoad load_mp_maps="false" load_sp_maps="false">
+		<IPL>sfadd</IPL>
+		<IPL>sfe</IPL>
+		<IPL>sfn</IPL>
+		<IPL>sfs</IPL>
+		<IPL>sfse</IPL>
+		<IPL>sfw</IPL>
+	</IPLsToLoad>
+	<IPLsToRemove />
+	<WeatherToSet />
+	<StartTaskSequencesOnLoad>true</StartTaskSequencesOnLoad>
+	<ImgLoadingCoords>
+		<X>-4714.02686</X>
+		<Y>-2029.104</Y>
+		<Z>14.1473064</Z>
+	</ImgLoadingCoords>
+	<ReferenceCoords>
+		<X>-4714.02686</X>
+		<Y>-2029.104</Y>
+		<Z>14.1473064</Z>
+	</ReferenceCoords>
+</SpoonerPlacements>

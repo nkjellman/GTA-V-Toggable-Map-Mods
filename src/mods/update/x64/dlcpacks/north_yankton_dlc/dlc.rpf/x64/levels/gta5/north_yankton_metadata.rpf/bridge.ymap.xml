@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapData>
+  <name>bridge</name>
+  <parent/>
+  <flags value="1"/>
+  <contentFlags value="65"/>
+  <streamingExtentsMin x="-9192.00000000" y="-9192.00000000" z="-1000.00000000"/>
+  <streamingExtentsMax x="9192.00000000" y="9192.00000000" z="5000.00000000"/>
+  <entitiesExtentsMin x="-9192.00000000" y="-9192.00000000" z="-1000.00000000"/>
+  <entitiesExtentsMax x="9192.00000000" y="9192.00000000" z="5000.00000000"/>
+  <entities>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_rd</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1365.06200000" y="-3757.11000000" z="95.26406000"/>
+      <rotation x="0.04800000" y="-0.18500000" z="-0.74200000" w="0.64300000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_rd</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1297.06200000" y="-3892.11000000" z="151.96410000"/>
+      <rotation x="0.05600000" y="-0.18300000" z="-0.77000000" w="0.60800000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge2e</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1230.52600000" y="-4181.36900000" z="209.89940000"/>
+      <rotation x="0.10800000" y="0.02700000" z="0.60600000" w="0.78800000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge2e</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1299.42600000" y="-4435.96800000" z="254.29940000"/>
+      <rotation x="0.14100000" y="0.03200000" z="0.34500000" w="0.92700000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge2e</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1505.42600000" y="-4598.96800000" z="280.39940000"/>
+      <rotation x="0.14756670" y="-0.01202165" z="0.02141523" w="0.98874720"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_rd</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1647.22800000" y="-4637.85300000" z="304.49080000"/>
+      <rotation x="0.13600000" y="0.09700000" z="0.95300000" w="0.25400000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_rd</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1813.22800000" y="-4658.85300000" z="269.09080000"/>
+      <rotation x="0.23700000" y="0.05200000" z="0.92200000" w="0.30000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_rd</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1960.22800000" y="-4665.85300000" z="197.79080000"/>
+      <rotation x="0.23600000" y="0.05700000" z="0.91600000" w="0.31900000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1742.39900000" y="-4663.47100000" z="255.62540000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.29123760" w="0.95665070"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1574.39900000" y="-4640.47100000" z="290.62540000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.25767250" w="0.96623230"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1742.39900000" y="-4663.47100000" z="140.62540000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.29123650" w="0.95665110"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1323.39900000" y="-4514.47100000" z="286.62540000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00990458" w="0.99995090"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1215.39900000" y="-4260.47100000" z="241.62540000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.37569870" w="0.92674190"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1252.39900000" y="-3987.47100000" z="201.62540000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.58166160" w="0.81343090"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1252.39900000" y="-3987.47100000" z="87.62537000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.58166160" w="0.81343090"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1252.39900000" y="-3987.47100000" z="-25.37463000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.58166160" w="0.81343090"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1388.39900000" y="-3705.47100000" z="86.62537000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.63698690" w="0.77087470"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1388.39900000" y="-3705.47100000" z="-28.37463000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.63698690" w="0.77087470"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1468.39900000" y="-3450.47100000" z="71.62537000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.56016920" w="0.82837820"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1468.39900000" y="-3450.47100000" z="-41.37463000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.56016920" w="0.82837820"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1492.39900000" y="-3190.47100000" z="-21.37463000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.54562670" w="0.83802840"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1523.39900000" y="-2853.47100000" z="-21.37463000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.51604750" w="0.85656000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1540.39900000" y="-2710.47100000" z="8.62536800"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.51604750" w="0.85656000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="1552.39900000" y="-2630.47100000" z="-21.37463000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.53829280" w="0.84275790"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+  </entities>
+  <containerLods/>
+  <boxOccluders/>
+  <occludeModels/>
+  <physicsDictionaries/>
+  <instancedData>
+    <ImapLink/>
+    <PropInstanceList/>
+    <GrassInstanceList/>
+  </instancedData>
+  <timeCycleModifiers/>
+  <carGenerators/>
+  <LODLightsSOA>
+    <direction/>
+    <falloff/>
+    <falloffExponent/>
+    <timeAndStateFlags/>
+    <hash/>
+    <coneInnerAngle/>
+    <coneOuterAngleOrCapExt/>
+    <coronaIntensity/>
+  </LODLightsSOA>
+  <DistantLODLightsSOA>
+    <position/>
+    <RGBI/>
+    <numStreetLights value="0"/>
+    <category value="0"/>
+  </DistantLODLightsSOA>
+  <block>
+    <version value="0"/>
+    <flags value="0"/>
+    <name/>
+    <exportedBy/>
+    <owner>Dekurwinator</owner>
+    <time/>
+  </block>
+</CMapData>

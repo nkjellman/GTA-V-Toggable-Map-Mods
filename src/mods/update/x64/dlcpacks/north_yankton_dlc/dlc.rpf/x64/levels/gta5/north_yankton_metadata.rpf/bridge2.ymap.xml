@@ -1,0 +1,1055 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapData>
+  <name>bridge2</name>
+  <parent/>
+  <flags value="1"/>
+  <contentFlags value="65"/>
+  <streamingExtentsMin x="-9192.00000000" y="-9192.00000000" z="-1000.00000000"/>
+  <streamingExtentsMax x="9192.00000000" y="9192.00000000" z="5000.00000000"/>
+  <entitiesExtentsMin x="-9192.00000000" y="-9192.00000000" z="-1000.00000000"/>
+  <entitiesExtentsMax x="9192.00000000" y="9192.00000000" z="5000.00000000"/>
+  <entities>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="3090.78600000" y="-879.59820000" z="90.14817000"/>
+      <rotation x="-0.04750197" y="0.07307316" z="0.83523000" w="0.54295000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="3096.01700000" y="-857.78700000" z="74.91153000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99461550" w="0.10363320"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="3096.01700000" y="-857.78700000" z="-9.08845500"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99461550" w="0.10363320"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="3450.78900000" y="-1039.59800000" z="77.14817000"/>
+      <rotation x="0.00000000" y="0.00000001" z="0.83842040" w="0.54502400"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="3806.79000000" y="-1197.59800000" z="77.14817000"/>
+      <rotation x="0.00000000" y="0.00000001" z="0.83842040" w="0.54502400"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="4161.79000000" y="-1355.09800000" z="77.14817000"/>
+      <rotation x="0.00000000" y="0.00000001" z="0.83842040" w="0.54502400"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="7073.96500000" y="-4478.72700000" z="186.09430000"/>
+      <rotation x="-0.08707828" y="0.00367519" z="0.04200760" w="0.99530860"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="7089.96700000" y="-4097.21600000" z="253.29440000"/>
+      <rotation x="-0.08712914" y="0.00215491" z="0.02463068" w="0.99589010"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="7060.96700000" y="-3717.21600000" z="319.99440000"/>
+      <rotation x="-0.08712253" y="-0.00240803" z="-0.02752394" w="0.99581430"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="7006.46600000" y="-3324.01400000" z="307.09440000"/>
+      <rotation x="-0.00000009" y="0.00000000" z="-0.06249837" w="0.99804510"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6958.06600000" y="-2940.01000000" z="225.79440000"/>
+      <rotation x="0.08698526" y="0.00544709" z="-0.06226055" w="0.99424720"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6838.46800000" y="-2574.01000000" z="158.79440000"/>
+      <rotation x="0.08628974" y="0.01225508" z="-0.14007630" w="0.98629750"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6664.06700000" y="-2232.01000000" z="91.79441000"/>
+      <rotation x="0.08506221" y="0.01898750" z="-0.21702840" w="0.97226670"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6428.86900000" y="-1922.01000000" z="105.79440000"/>
+      <rotation x="-0.00000013" y="-0.00000005" z="-0.30209050" w="0.95327930"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="4540.79000000" y="-1461.09800000" z="69.14817000"/>
+      <rotation x="0.00519397" y="-0.00701249" z="0.80355260" w="0.59516980"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="4913.39400000" y="-1574.49700000" z="46.14817000"/>
+      <rotation x="0.01558032" y="-0.02103535" z="0.80330770" w="0.59498860"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>stt_prop_track_bend_30d_bar</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6442.57900000" y="-1985.38500000" z="91.73339000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.89782790" w="0.44034650"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="5993.57100000" y="-1815.01000000" z="105.79440000"/>
+      <rotation x="-0.00000011" y="-0.00000009" z="-0.58895920" w="0.80816280"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="5620.57000000" y="-1720.81000000" z="105.79440000"/>
+      <rotation x="-0.00000011" y="-0.00000009" z="-0.60991250" w="0.79246870"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="5247.26900000" y="-1622.01000000" z="105.79440000"/>
+      <rotation x="-0.00000011" y="-0.00000009" z="-0.60991250" w="0.79246870"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="4869.26900000" y="-1522.01000000" z="81.39439000"/>
+      <rotation x="0.02074430" y="0.01596556" z="-0.60970350" w="0.79219720"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_oilrig_x1d</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="4498.26900000" y="-1407.01000000" z="61.09438000"/>
+      <rotation x="0.02101978" y="0.01560108" z="-0.59578490" w="0.80271740"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="3576.91700000" y="-1077.78700000" z="74.91153000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99762640" w="0.06885887"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="3576.91700000" y="-1077.78700000" z="-9.08845500"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99762640" w="0.06885903"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="4155.91700000" y="-1334.78700000" z="74.91153000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99762640" w="0.06885903"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="4155.91700000" y="-1334.78700000" z="-9.08845500"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99762640" w="0.06885903"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="4639.91700000" y="-1476.78700000" z="79.91154000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99461550" w="0.10363410"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="4639.91700000" y="-1476.78700000" z="-14.08845000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99461550" w="0.10363410"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="4911.91700000" y="-1559.78700000" z="78.91154000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99461550" w="0.10363410"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="4911.91700000" y="-1559.78700000" z="-18.08845000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99461550" w="0.10363410"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="5385.91700000" y="-1686.78700000" z="102.91150000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99461550" w="0.10363410"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="5385.91700000" y="-1686.78700000" z="-5.08845500"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99461550" w="0.10363410"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6128.91700000" y="-1876.78700000" z="102.91150000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.98782850" w="0.15554680"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6128.91700000" y="-1876.78700000" z="-2.08845500"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.98782850" w="0.15554680"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6490.91700000" y="-2032.78700000" z="102.91150000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.99442760" w="0.10542220"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6490.91700000" y="-2032.78700000" z="18.91155000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.99442760" w="0.10542230"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6707.91700000" y="-2379.78700000" z="102.91150000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.95604100" w="0.29323290"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6707.91700000" y="-2379.78700000" z="-6.08845500"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.95604100" w="0.29323310"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6855.91700000" y="-2721.78700000" z="169.91160000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.92684600" w="0.37544170"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6855.91700000" y="-2721.78700000" z="85.91154000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.92684600" w="0.37544170"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6855.91700000" y="-2721.78700000" z="-21.08845000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.92684600" w="0.37544170"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6956.91700000" y="-3091.78700000" z="237.91160000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.90958710" w="0.41551330"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6956.91700000" y="-3091.78700000" z="153.91150000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.90958710" w="0.41551340"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6956.91700000" y="-3091.78700000" z="85.91154000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.90958700" w="0.41551350"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="6956.91700000" y="-3091.78700000" z="2.91154500"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.90958690" w="0.41551360"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="7004.91700000" y="-3468.78700000" z="304.91150000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.90958710" w="0.41551340"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="7004.91700000" y="-3468.78700000" z="220.91150000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.90958700" w="0.41551350"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="7004.91700000" y="-3468.78700000" z="152.91150000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.90958690" w="0.41551360"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="7004.91700000" y="-3468.78700000" z="49.91153000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.90958690" w="0.41551360"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="7043.91700000" y="-3858.78700000" z="304.91150000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.86991130" w="0.49320820"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="7059.91700000" y="-4235.78700000" z="234.91150000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.85670240" w="0.51581100"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="7059.91700000" y="-4235.78700000" z="132.91150000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.85670240" w="0.51581110"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>_ny_bridge_plr</archetypeName>
+      <flags value="1572865"/>
+      <guid value="0"/>
+      <position x="7039.91700000" y="-4614.78700000" z="158.91150000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.85670240" w="0.51581110"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="3000.00000000"/>
+      <childLodDist value="1500.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+    </Item>
+  </entities>
+  <containerLods/>
+  <boxOccluders/>
+  <occludeModels/>
+  <physicsDictionaries/>
+  <instancedData>
+    <ImapLink/>
+    <PropInstanceList/>
+    <GrassInstanceList/>
+  </instancedData>
+  <timeCycleModifiers/>
+  <carGenerators/>
+  <LODLightsSOA>
+    <direction/>
+    <falloff/>
+    <falloffExponent/>
+    <timeAndStateFlags/>
+    <hash/>
+    <coneInnerAngle/>
+    <coneOuterAngleOrCapExt/>
+    <coronaIntensity/>
+  </LODLightsSOA>
+  <DistantLODLightsSOA>
+    <position/>
+    <RGBI/>
+    <numStreetLights value="0"/>
+    <category value="0"/>
+  </DistantLODLightsSOA>
+  <block>
+    <version value="0"/>
+    <flags value="0"/>
+    <name/>
+    <exportedBy/>
+    <owner>Dekurwinator</owner>
+    <time/>
+  </block>
+</CMapData>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SpoonerPlacements>
+	<Note />
+	<AudioFile volume="400" />
+	<ClearDatabase>false</ClearDatabase>
+	<ClearWorld>0</ClearWorld>
+	<ClearMarkers>false</ClearMarkers>
+	<IPLsToLoad load_mp_maps="false" load_sp_maps="false" />
+	<IPLsToRemove>
+		<IPL>airport</IPL>
+		<IPL>airportn</IPL>
+		<IPL>bank</IPL>
+		<IPL>bridge</IPL>
+		<IPL>cisland</IPL>
+		<IPL>club</IPL>
+		<IPL>club_dop</IPL>
+		<IPL>concerth</IPL>
+		<IPL>docks</IPL>
+		<IPL>downtown</IPL>
+		<IPL>downtows</IPL>
+		<IPL>golf</IPL>
+		<IPL>haiti</IPL>
+		<IPL>haitin</IPL>
+		<IPL>hotel</IPL>
+		<IPL>hotel_milo_</IPL>
+		<IPL>islandsf</IPL>
+		<IPL>lawyers</IPL>
+		<IPL>littleha</IPL>
+		<IPL>mall</IPL>
+		<IPL>mansion</IPL>
+		<IPL>nbeach</IPL>
+		<IPL>nbeachbt</IPL>
+		<IPL>nbeachw</IPL>
+		<IPL>oceandn</IPL>
+		<IPL>oceandrv</IPL>
+		<IPL>oceandrv_stream0</IPL>
+		<IPL>od_glass</IPL>
+		<IPL>OV_Neon</IPL>
+		<IPL>parkedcars</IPL>
+		<IPL>parkedcars_strm_0</IPL>
+		<IPL>stadint2</IPL>
+		<IPL>stadint3</IPL>
+		<IPL>starisl</IPL>
+		<IPL>stripclb</IPL>
+		<IPL>washintn</IPL>
+		<IPL>washints</IPL>
+		<IPL>yacht</IPL>
+	</IPLsToRemove>
+	<WeatherToSet></WeatherToSet>
+	<StartTaskSequencesOnLoad>true</StartTaskSequencesOnLoad>
+</SpoonerPlacements>

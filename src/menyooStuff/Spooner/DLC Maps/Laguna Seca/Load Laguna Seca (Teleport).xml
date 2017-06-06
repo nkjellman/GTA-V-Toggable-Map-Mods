@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SpoonerPlacements>
+	<Note />
+	<AudioFile volume="400" />
+	<ClearDatabase>false</ClearDatabase>
+	<ClearWorld>0</ClearWorld>
+	<ClearMarkers>false</ClearMarkers>
+	<IPLsToLoad load_mp_maps="true" load_sp_maps="false">
+		<IPL>laguna</IPL>
+	</IPLsToLoad>
+	<IPLsToRemove />
+	<WeatherToSet></WeatherToSet>
+	<StartTaskSequencesOnLoad>true</StartTaskSequencesOnLoad>
+	<ReferenceCoords>
+		<X>-3484.27900000</X>
+		<Y>2576.93300000</Y>
+		<Z>11.25946331</Z>
+	</ReferenceCoords>
+	<Placement/>
+</SpoonerPlacements>

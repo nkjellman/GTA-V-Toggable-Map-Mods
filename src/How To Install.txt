@@ -1,0 +1,4 @@
+The location of this "How To Install.txt" file you just opened represents the root of your GTA V directory.
+
+1. Place the contents of menyooStuff in the respective location in your directory.
+2. Use OpenIV, and replace the ymap and ymf files that came with the map mod with mine.

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CPackFileMetaData>
+  <MapDataGroups>
+    <Item>
+      <Name>om_velodrome01</Name>
+      <Bounds>
+        <Item>col_om_velodrome01</Item>
+        <Item>col_om_velodrome08</Item>
+        <Item>col_om_velodrome11</Item>
+        <Item>col_om_velodrome14</Item>
+        <Item>col_om_velodrome21</Item>
+        <Item>col_om_velodrome31</Item>
+        <Item>col_om_velodrome41</Item>
+        <Item>col_om_velodrome52</Item>
+        <Item>col_om_velodrome57</Item>
+        <Item>col_om_velodrome61</Item>
+        <Item>col_om_velodrome70</Item>
+        <Item>col_om_velodrome71</Item>
+        <Item>col_om_velodrome76</Item>
+        <Item>col_om_velodrome81</Item>
+        <Item>col_om_velodrome91</Item>
+        <Item>col_om_velodrome101</Item>
+        <Item>col_om_velodrome111</Item>
+        <Item>col_om_velodrome120</Item>
+      </Bounds>
+      <Flags/>
+      <WeatherTypes/>
+      <HoursOnOff value="0"/>
+    </Item>
+  </MapDataGroups>
+  <HDTxdBindingArray/>
+  <imapDependencies/>
+  <imapDependencies_2>
+    <Item>
+      <imapName>om_velodrome01</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>om_velodrome</Item>
+      </itypDepArray>
+    </Item>
+  </imapDependencies_2>
+  <itypDependencies_2>
+    <Item>
+      <itypName/>
+      <manifestFlags/>
+      <itypDepArray/>
+    </Item>
+  </itypDependencies_2>
+  <Interiors/>
+</CPackFileMetaData>

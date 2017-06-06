@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SpoonerPlacements>
+	<Note />
+	<AudioFile volume="400" />
+	<ClearDatabase>false</ClearDatabase>
+	<ClearWorld>0</ClearWorld>
+	<ClearMarkers>false</ClearMarkers>
+	<IPLsToLoad load_mp_maps="false" load_sp_maps="false">
+		<IPL>bridge</IPL>
+		<IPL>bridge2</IPL>
+		<IPL>ny01</IPL>
+		<IPL>nyprologue01</IPL>
+		<IPL>nyprologue01c</IPL>
+		<IPL>nyprologue01c_lod</IPL>
+		<IPL>nyprologue01d</IPL>
+		<IPL>nyprologue01d_lod</IPL>
+		<IPL>nyprologue01e</IPL>
+		<IPL>nyprologue01e_lod</IPL>
+		<IPL>nyprologue01f</IPL>
+		<IPL>nyprologue01f_lod</IPL>
+		<IPL>nyprologue01g</IPL>
+		<IPL>nyprologue01h</IPL>
+		<IPL>nyprologue01h_lod</IPL>
+		<IPL>nyprologue01i</IPL>
+		<IPL>nyprologue01i_lod</IPL>
+		<IPL>nyprologue01j</IPL>
+		<IPL>nyprologue01j_lod</IPL>
+		<IPL>nyprologue01k</IPL>
+		<IPL>nyprologue01k_lod</IPL>
+		<IPL>nyprologue01z</IPL>
+		<IPL>nyprologue01z_lod</IPL>
+		<IPL>nyprologue01_lod</IPL>
+		<IPL>nyprologue02</IPL>
+		<IPL>nyprologue02_lod</IPL>
+		<IPL>nyprologue03</IPL>
+		<IPL>nyprologue03b</IPL>
+		<IPL>nyprologue03b_lod</IPL>
+		<IPL>nyprologue03_grv_cov</IPL>
+		<IPL>nyprologue03_grv_cov_lod</IPL>
+		<IPL>nyprologue03_lod</IPL>
+		<IPL>nyprologue04</IPL>
+		<IPL>nyprologue04b</IPL>
+		<IPL>nyprologue04b_lod</IPL>
+		<IPL>nyprologue04_cover</IPL>
+		<IPL>nyprologue04_lod</IPL>
+		<IPL>nyprologue05</IPL>
+		<IPL>nyprologue05b</IPL>
+		<IPL>nyprologue05b_lod</IPL>
+		<IPL>nyprologue05_lod</IPL>
+		<IPL>nyprologue06</IPL>
+		<IPL>nyprologue06b</IPL>
+		<IPL>nyprologue06b_lod</IPL>
+		<IPL>nyprologue06_int</IPL>
+		<IPL>nyprologue06_int_lod</IPL>
+		<IPL>nyprologue06_lod</IPL>
+		<IPL>nyprologue06_pannel</IPL>
+		<IPL>nyprologue06_pannel_lod</IPL>
+		<IPL>nyprologuerd</IPL>
+		<IPL>nyprologuerdb</IPL>
+		<IPL>nyprologuerd_lod</IPL>
+		<IPL>nyprologue_m2_door</IPL>
+		<IPL>nyprologue_m2_door_lod</IPL>
+		<IPL>ny_props01</IPL>
+		<IPL>ny_props02</IPL>
+		<IPL>oilrig</IPL>
+		<IPL>pierdoly</IPL>
+		<IPL>_ny_treez</IPL>
+		<IPL>_ny_treez_mission_hill</IPL>
+	</IPLsToLoad>
+	<IPLsToRemove />
+	<WeatherToSet></WeatherToSet>
+	<StartTaskSequencesOnLoad>true</StartTaskSequencesOnLoad>
+	<ReferenceCoords>
+		<X>5463.8623</X>
+		<Y>-6311.67822</Y>
+		<Z>49.197403</Z>
+	</ReferenceCoords>
+	<Marker>
+		<Name>Fire_heli</Name>
+		<Type>7</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="2773.68164" Y="-4765.77783" Z="111.693802" />
+		<Rotation X="0" Y="0" Z="-142.723251" />
+		<Destination X="2773.85083" Y="-4769.82568" Z="118.978394" />
+		<DestinationHeading>453</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>fire2</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="2774.55054" Y="-4769.84961" Z="119.832596" />
+		<Rotation X="0" Y="0" Z="76.6323318" />
+		<Destination X="2771.698" Y="-4766.57422" Z="111.133682" />
+		<DestinationHeading>77</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>fire15</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="2735.24951" Y="-4769.2832" Z="113.493813" />
+		<Rotation X="0" Y="0" Z="178.343552" />
+		<Destination X="2740.1543" Y="-4770.75928" Z="140.982437" />
+		<DestinationHeading>178</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>fire16</Name>
+		<Type>0</Type>
+		<Scale>1.64999938</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="2741.64941" Y="-4768.18604" Z="140.572601" />
+		<Rotation X="0" Y="0" Z="178.343536" />
+		<Destination X="2735.24951" Y="-4769.2832" Z="113.493813" />
+		<DestinationHeading>173</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>bh</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4478.33594" Y="-3695.67847" Z="160.261368" />
+		<Rotation X="0" Y="0" Z="260.118225" />
+		<Destination X="4483.0083" Y="-3698.04248" Z="186.827286" />
+		<DestinationHeading>169</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>fg</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4484.896" Y="-3696.37524" Z="187.116867" />
+		<Rotation X="0" Y="0" Z="260.118286" />
+		<Destination X="4478.01611" Y="-3696.79102" Z="159.835953" />
+		<DestinationHeading>173</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>8tgi</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4525.63623" Y="-3697.9292" Z="159.832306" />
+		<Rotation X="0" Y="0" Z="260.119202" />
+		<Destination X="4521.25391" Y="-3700.94482" Z="175.280777" />
+		<DestinationHeading>174</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>ftfrgh</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4523.16699" Y="-3698.70483" Z="175.700394" />
+		<Rotation X="0" Y="0" Z="260.118469" />
+		<Destination X="4526.15625" Y="-3699.97119" Z="159.625916" />
+		<DestinationHeading>172</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>dfg</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4605.06152" Y="-6365.46924" Z="131.338837" />
+		<Rotation X="0" Y="0" Z="174.11911" />
+		<Destination X="4605.50195" Y="-6360.13818" Z="158.184464" />
+		<DestinationHeading>-6</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>ijbg</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4603.83008" Y="-6362.06543" Z="158.647736" />
+		<Rotation X="0" Y="0" Z="174.116837" />
+		<Destination X="4606.84619" Y="-6365.91797" Z="130.958603" />
+		<DestinationHeading>273</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>nmnb</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4603.14795" Y="-6318.37793" Z="129.593567" />
+		<Rotation X="0" Y="0" Z="174.117203" />
+		<Destination X="4605.33984" Y="-6321.97607" Z="145.223785" />
+		<DestinationHeading>-2</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>bnmb</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4603.63818" Y="-6323.57959" Z="145.675705" />
+		<Rotation X="0" Y="0" Z="174.116791" />
+		<Destination X="4605.31055" Y="-6317.60498" Z="129.471695" />
+		<DestinationHeading>270</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>To Ludendorff</Name>
+		<Type>24</Type>
+		<Scale>1.84999919</Scale>
+		<ShowName>true</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="150" B="5" A="190" />
+		<Position X="7017.12842" Y="-5415.41846" Z="103.397675" />
+		<Rotation X="0" Y="0" Z="138.043228" />
+		<Destination X="3150.42383" Y="-4848.18359" Z="111.697639" />
+		<DestinationHeading>-6</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>To airport</Name>
+		<Type>24</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>true</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="150" B="5" A="190" />
+		<Position X="3150.42383" Y="-4848.18359" Z="111.697639" />
+		<Rotation X="0" Y="0" Z="80.6593857" />
+		<Destination X="7018.4458" Y="-5418.75049" Z="103.197678" />
+		<DestinationHeading>202</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>yfy</Name>
+		<Type>27</Type>
+		<Scale>7.30000973</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="0" G="0" B="0" A="190" />
+		<Position X="3157.32593" Y="-4807.91016" Z="124.02887" />
+		<Rotation X="0" Y="0" Z="181.560913" />
+		<Destination X="-105.983612" Y="-1002.57684" Z="9784.56055" />
+		<DestinationHeading>182</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>trvin</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>false</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="50" />
+		<Position X="3147.45752" Y="-4840.4292" Z="111.64917" />
+		<Rotation X="0" Y="0" Z="75.0031357" />
+		<Destination X="3148.33521" Y="-4843.16797" Z="111.627625" />
+		<DestinationHeading>176</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>To Sandy Shores</Name>
+		<Type>24</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>true</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="150" B="5" A="190" />
+		<Position X="7034.34521" Y="-5434.62842" Z="103.49826" />
+		<Rotation X="0" Y="0" Z="295.452972" />
+		<Destination X="1697.35779" Y="3286.3479" Z="40.8364143" />
+		<DestinationHeading>224</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>To North Yankton</Name>
+		<Type>24</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>true</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="150" B="5" A="190" />
+		<Position X="1696.05847" Y="3288.84644" Z="40.9363976" />
+		<Rotation X="0" Y="0" Z="295.452972" />
+		<Destination X="7033.99902" Y="-5432.96777" Z="103.398224" />
+		<DestinationHeading>366</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>To Los Santos</Name>
+		<Type>24</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>true</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="150" B="5" A="190" />
+		<Position X="7053.89746" Y="-5435.18164" Z="103.598404" />
+		<Rotation X="0" Y="0" Z="294.999817" />
+		<Destination X="-1048.73083" Y="-2740.73315" Z="14.2428427" />
+		<DestinationHeading>333</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>To North Yankton</Name>
+		<Type>24</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>true</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="150" B="5" A="190" />
+		<Position X="-1049.51733" Y="-2742.07129" Z="14.4728479" />
+		<Rotation X="0" Y="0" Z="294.999817" />
+		<Destination X="7054.52393" Y="-5432.92188" Z="103.598404" />
+		<DestinationHeading>339</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>koj</Name>
+		<Type>2</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>false</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="0" A="190" />
+		<Position X="6933.71045" Y="-5519.81592" Z="103.499977" />
+		<Rotation X="0" Y="0" Z="-3.78692436" />
+		<Destination X="6933.77979" Y="-5518.77148" Z="163.593475" />
+		<DestinationHeading>306</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>gguh</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="0" A="50" />
+		<Position X="6933.75488" Y="-5519.82568" Z="163.493469" />
+		<Rotation X="0" Y="0" Z="306.213074" />
+		<Destination X="6933.7876" Y="-5518.78271" Z="103.199982" />
+		<DestinationHeading>359</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>sece</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="50" />
+		<Position X="7021.15479" Y="-5420.74365" Z="109.07872" />
+		<Rotation X="0" Y="0" Z="163.184006" />
+		<Destination X="7020.22266" Y="-5423.30615" Z="103.397675" />
+		<DestinationHeading>217</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>njbjkn</Name>
+		<Type>2</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>false</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="50" />
+		<Position X="7019.07373" Y="-5423.82813" Z="103.397675" />
+		<Rotation X="0" Y="0" Z="113.184006" />
+		<Destination X="7021.15479" Y="-5420.74365" Z="109.07872" />
+		<DestinationHeading>40</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>entsaf</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>false</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="2899.54321" Y="-4699.68262" Z="110.986359" />
+		<Rotation X="0" Y="0" Z="22.863718" />
+		<Destination X="2893.81885" Y="-4692.13574" Z="156.056183" />
+		<DestinationHeading>171</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>fuyf</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>false</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="50" />
+		<Position X="2893.86426" Y="-4692.11719" Z="156.156189" />
+		<Rotation X="0" Y="0" Z="22.863718" />
+		<Destination X="2899.26489" Y="-4701.0708" Z="110.81662" />
+		<DestinationHeading>174</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>jlj4</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>false</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="2890.00366" Y="-4689.2876" Z="111.463188" />
+		<Rotation X="0" Y="0" Z="22.863718" />
+		<Destination X="2900.44775" Y="-4693.39111" Z="156.456207" />
+		<DestinationHeading>82</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>ffyf</Name>
+		<Type>4</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>false</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="50" />
+		<Position X="2900.66479" Y="-4693.41797" Z="156.356201" />
+		<Rotation X="0" Y="0" Z="82.8637238" />
+		<Destination X="2890.00366" Y="-4689.2876" Z="111.463188" />
+		<DestinationHeading>93</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>ch1ent</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3243.64307" Y="-4668.98633" Z="114.802223" />
+		<Rotation X="0" Y="0" Z="349.244202" />
+		<Destination X="3249.8584" Y="-4652.35791" Z="113.805565" />
+		<DestinationHeading>369</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>ch1ex</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3249.62329" Y="-4652.37939" Z="114.105446" />
+		<Rotation X="0" Y="0" Z="349.244202" />
+		<Destination X="3243.64307" Y="-4668.98633" Z="114.802223" />
+		<DestinationHeading>172</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>policent1</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4656.30664" Y="-6383.8125" Z="128.160217" />
+		<Rotation X="0" Y="0" Z="200.077255" />
+		<Destination X="4669.79688" Y="-6381.51709" Z="109.79718" />
+		<DestinationHeading>190</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>policex1</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4669.81152" Y="-6381.45215" Z="109.897095" />
+		<Rotation X="0" Y="0" Z="200.077255" />
+		<Destination X="4656.30664" Y="-6383.8125" Z="128.360229" />
+		<DestinationHeading>-10</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>policent2</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4649.71436" Y="-6391.5498" Z="128.867233" />
+		<Rotation X="0" Y="0" Z="200.077255" />
+		<Destination X="4663.66162" Y="-6389.53369" Z="109.498955" />
+		<DestinationHeading>281</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>policex2</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4663.66162" Y="-6389.53369" Z="109.498955" />
+		<Rotation X="0" Y="0" Z="200.077255" />
+		<Destination X="4649.71436" Y="-6391.5498" Z="128.867233" />
+		<DestinationHeading>84</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>offin</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4663.52979" Y="-6382.49219" Z="108.850487" />
+		<Rotation X="0" Y="0" Z="200.077255" />
+		<Destination X="4652.04883" Y="-6400.62158" Z="110.276985" />
+		<DestinationHeading>102</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>offex</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4651.94336" Y="-6400.5708" Z="110.376984" />
+		<Rotation X="0" Y="0" Z="200.077255" />
+		<Destination X="4663.52979" Y="-6382.49219" Z="108.850487" />
+		<DestinationHeading>187</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>up1</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4673.3667" Y="-6393.52637" Z="110.101341" />
+		<Rotation X="0" Y="0" Z="245.766754" />
+		<Destination X="4663.646" Y="-6396.56348" Z="114.58519" />
+		<DestinationHeading>286</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>dwn</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4663.7373" Y="-6396.8418" Z="114.585304" />
+		<Rotation X="0" Y="0" Z="245.766754" />
+		<Destination X="4673.3667" Y="-6393.52637" Z="110.101341" />
+		<DestinationHeading>374</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>offin</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4667.10938" Y="-6380.73486" Z="114.580338" />
+		<Rotation X="0" Y="0" Z="245.766754" />
+		<Destination X="4642.95752" Y="-6401.71143" Z="108.465652" />
+		<DestinationHeading>371</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>offex</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4642.86377" Y="-6401.69873" Z="108.565659" />
+		<Rotation X="0" Y="0" Z="245.766754" />
+		<Destination X="4667.10938" Y="-6380.73486" Z="114.580338" />
+		<DestinationHeading>188</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>upp</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4641.14453" Y="-6397.0459" Z="109.064522" />
+		<Rotation X="0" Y="0" Z="245.766754" />
+		<Destination X="4669.78662" Y="-6381.5835" Z="118.722412" />
+		<DestinationHeading>98</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>dwnn</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4669.73975" Y="-6381.58838" Z="118.822411" />
+		<Rotation X="0" Y="0" Z="245.766754" />
+		<Destination X="4641.14453" Y="-6397.0459" Z="109.064522" />
+		<DestinationHeading>191</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>heliup</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4661.02148" Y="-6383.14453" Z="118.820602" />
+		<Rotation X="0" Y="0" Z="245.766754" />
+		<Destination X="4649.80273" Y="-6396.39941" Z="133.81723" />
+		<DestinationHeading>88</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>helidwn</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="4650.38232" Y="-6396.54932" Z="134.123642" />
+		<Rotation X="0" Y="0" Z="245.766754" />
+		<Destination X="4661.02148" Y="-6383.14453" Z="118.820602" />
+		<DestinationHeading>246</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>chin</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="5431.41992" Y="-6325.71826" Z="91.2300034" />
+		<Rotation X="0" Y="0" Z="229.558319" />
+		<Destination X="5423.91699" Y="-6320.37354" Z="91.8773727" />
+		<DestinationHeading>362</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>chex</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="5424.18555" Y="-6320.37744" Z="91.9836349" />
+		<Rotation X="0" Y="0" Z="229.558319" />
+		<Destination X="5431.41992" Y="-6325.71826" Z="91.2300034" />
+		<DestinationHeading>185</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>toairp</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="1" B="1" A="190" />
+		<Position X="7035.78613" Y="-5422.75977" Z="103.408546" />
+		<Rotation X="0" Y="0" Z="88.8216171" />
+		<Destination X="7222.1665" Y="-5524.17334" Z="108.664253" />
+		<DestinationHeading>-6</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>airphl</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="1" B="1" A="190" />
+		<Position X="7222.22998" Y="-5525.78564" Z="108.774277" />
+		<Rotation X="0" Y="0" Z="88.8216171" />
+		<Destination X="7035.78613" Y="-5422.75977" Z="103.408546" />
+		<DestinationHeading>9</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>4up</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3416.44873" Y="-4824.37451" Z="111.163269" />
+		<Rotation X="0" Y="0" Z="350.619202" />
+		<Destination X="3403.32446" Y="-4789.03271" Z="132.813293" />
+		<DestinationHeading>540</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>4grg</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3403.29736" Y="-4789.03564" Z="133.063156" />
+		<Rotation X="0" Y="0" Z="350.619202" />
+		<Destination X="3416.44873" Y="-4824.37451" Z="111.163269" />
+		<DestinationHeading>183</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>4up</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3424.76611" Y="-4810.50195" Z="111.224457" />
+		<Rotation X="0" Y="0" Z="350.619202" />
+		<Destination X="3397.22437" Y="-4788.92529" Z="75.32341" />
+		<DestinationHeading>265</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>4dwn</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3397.22925" Y="-4788.92969" Z="75.4734344" />
+		<Rotation X="0" Y="0" Z="350.619202" />
+		<Destination X="3424.76611" Y="-4810.50195" Z="111.224457" />
+		<DestinationHeading>265</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>212121</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3443.55591" Y="-4796.61035" Z="75.4086304" />
+		<Rotation X="0" Y="0" Z="350.619202" />
+		<Destination X="3413.17163" Y="-4825.45898" Z="69.255806" />
+		<DestinationHeading>351</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>12121212</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3413.16187" Y="-4825.7041" Z="69.2765503" />
+		<Rotation X="0" Y="0" Z="350.619202" />
+		<Destination X="3443.55591" Y="-4796.61035" Z="75.4086304" />
+		<DestinationHeading>416</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>4lift</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3424.57275" Y="-4790.22852" Z="75.3884888" />
+		<Rotation X="0" Y="0" Z="350.619202" />
+		<Destination X="3409.08496" Y="-4800.62793" Z="132.758057" />
+		<DestinationHeading>441</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>4dwnlift</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3409.08496" Y="-4800.62793" Z="132.957947" />
+		<Rotation X="0" Y="0" Z="350.619202" />
+		<Destination X="3424.57275" Y="-4790.22852" Z="75.3884888" />
+		<DestinationHeading>265</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>cnm</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3156.89404" Y="-4818.84717" Z="111.482483" />
+		<Rotation X="0" Y="0" Z="250.143356" />
+		<Destination X="3135.14185" Y="-4807.29443" Z="94.2672195" />
+		<DestinationHeading>250</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>cnme</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3135.14185" Y="-4807.29443" Z="94.3872452" />
+		<Rotation X="0" Y="0" Z="250.143356" />
+		<Destination X="3156.89404" Y="-4818.84717" Z="111.482483" />
+		<DestinationHeading>164</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>cnmprj</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3188.8894" Y="-4805.07861" Z="94.4072113" />
+		<Rotation X="0" Y="0" Z="250.143356" />
+		<Destination X="3159.2229" Y="-4809.8208" Z="60.0071793" />
+		<DestinationHeading>264</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>cnmprje</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3159.2229" Y="-4809.8208" Z="60.1671524" />
+		<Rotation X="0" Y="0" Z="250.143356" />
+		<Destination X="3188.8894" Y="-4805.07861" Z="94.4072113" />
+		<DestinationHeading>159</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>hsp</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3074.66406" Y="-4810.74805" Z="111.606552" />
+		<Rotation X="0" Y="0" Z="250.143356" />
+		<Destination X="3038.88306" Y="-4780.71582" Z="77.2062378" />
+		<DestinationHeading>185</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>hspe</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3038.88306" Y="-4780.71582" Z="77.3462677" />
+		<Rotation X="0" Y="0" Z="250.143356" />
+		<Destination X="3074.66406" Y="-4810.74805" Z="111.606552" />
+		<DestinationHeading>180</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>12121212</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3121.28735" Y="-4815.58691" Z="111.541397" />
+		<Rotation X="0" Y="0" Z="82.7420654" />
+		<Destination X="3112.92236" Y="-4798.01221" Z="111.753845" />
+		<DestinationHeading>262</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>212121</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3112.85376" Y="-4798.16992" Z="111.693832" />
+		<Rotation X="0" Y="0" Z="82.7420654" />
+		<Destination X="3121.28735" Y="-4815.58691" Z="111.541397" />
+		<DestinationHeading>172</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>12</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3192.5769" Y="-4819.27051" Z="112.04007" />
+		<Rotation X="0" Y="0" Z="203.270081" />
+		<Destination X="3188.64673" Y="-4815.45703" Z="112.916939" />
+		<DestinationHeading>61</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>000002</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3188.56348" Y="-4815.33838" Z="112.986893" />
+		<Rotation X="0" Y="0" Z="203.270081" />
+		<Destination X="3192.5769" Y="-4819.27051" Z="112.110085" />
+		<DestinationHeading>203</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>cghn</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3427.76343" Y="-4787.37158" Z="75.3623123" />
+		<Rotation X="0" Y="0" Z="250.151794" />
+		<Destination X="3423.79688" Y="-4822.67822" Z="122.129524" />
+		<DestinationHeading>261</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>cgnh</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3423.80371" Y="-4822.67871" Z="122.229523" />
+		<Rotation X="0" Y="0" Z="250.151794" />
+		<Destination X="3427.76343" Y="-4787.37158" Z="75.3623123" />
+		<DestinationHeading>213</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>ljl</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3427.03369" Y="-4800.46094" Z="75.4407654" />
+		<Rotation X="0" Y="0" Z="250.151794" />
+		<Destination X="3415.25098" Y="-4801.54639" Z="121.201286" />
+		<DestinationHeading>442</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>kb</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="3415.31738" Y="-4801.62695" Z="121.501282" />
+		<Rotation X="0" Y="0" Z="250.151794" />
+		<Destination X="3427.03369" Y="-4800.46094" Z="75.4407654" />
+		<DestinationHeading>358</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>kh</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="5427.53613" Y="-6383.41553" Z="100.310211" />
+		<Rotation X="0" Y="0" Z="73.0933685" />
+		<Destination X="5474.73877" Y="-6311.27539" Z="49.3525963" />
+		<DestinationHeading>177</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>mm</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="5474.58838" Y="-6311.07227" Z="49.509819" />
+		<Rotation X="0" Y="0" Z="73.0933685" />
+		<Destination X="5427.53613" Y="-6383.41553" Z="100.310211" />
+		<DestinationHeading>179</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>mmm</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="5427.4458" Y="-6383.35938" Z="104.320518" />
+		<Rotation X="0" Y="0" Z="73.0933685" />
+		<Destination X="5474.64746" Y="-6311.07031" Z="52.8867683" />
+		<DestinationHeading>176</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>mmn</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="255" G="255" B="255" A="190" />
+		<Position X="5474.65137" Y="-6311.0708" Z="53.0867386" />
+		<Rotation X="0" Y="0" Z="73.0933685" />
+		<Destination X="5427.4458" Y="-6383.35938" Z="104.320518" />
+		<DestinationHeading>181</DestinationHeading>
+	</Marker>
+</SpoonerPlacements>

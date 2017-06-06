@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<SpoonerPlacements>
+	<Note />
+	<AudioFile volume="400" />
+	<ClearDatabase>false</ClearDatabase>
+	<ClearWorld>0</ClearWorld>
+	<ClearMarkers>false</ClearMarkers>
+	<IPLsToLoad load_mp_maps="false" load_sp_maps="false">
+		<IPL>om_velodrome01</IPL>
+	</IPLsToLoad>
+	<IPLsToRemove />
+	<WeatherToSet />
+	<StartTaskSequencesOnLoad>true</StartTaskSequencesOnLoad>
+	<ReferenceCoords>
+		<X>-2054.50146</X>
+		<Y>-873.63385</Y>
+		<Z>8.7442255</Z>
+	</ReferenceCoords>
+</SpoonerPlacements>

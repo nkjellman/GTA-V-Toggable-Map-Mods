@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SpoonerPlacements>
+	<Note />
+	<AudioFile volume="400" />
+	<ClearDatabase>false</ClearDatabase>
+	<ClearWorld>0</ClearWorld>
+	<ClearMarkers>false</ClearMarkers>
+	<IPLsToLoad load_mp_maps="false" load_sp_maps="false" />
+	<IPLsToRemove>
+		<IPL>bridge</IPL>
+		<IPL>bridge2</IPL>
+		<IPL>ny01</IPL>
+		<IPL>nyprologue01</IPL>
+		<IPL>nyprologue01c</IPL>
+		<IPL>nyprologue01c_lod</IPL>
+		<IPL>nyprologue01d</IPL>
+		<IPL>nyprologue01d_lod</IPL>
+		<IPL>nyprologue01e</IPL>
+		<IPL>nyprologue01e_lod</IPL>
+		<IPL>nyprologue01f</IPL>
+		<IPL>nyprologue01f_lod</IPL>
+		<IPL>nyprologue01g</IPL>
+		<IPL>nyprologue01h</IPL>
+		<IPL>nyprologue01h_lod</IPL>
+		<IPL>nyprologue01i</IPL>
+		<IPL>nyprologue01i_lod</IPL>
+		<IPL>nyprologue01j</IPL>
+		<IPL>nyprologue01j_lod</IPL>
+		<IPL>nyprologue01k</IPL>
+		<IPL>nyprologue01k_lod</IPL>
+		<IPL>nyprologue01z</IPL>
+		<IPL>nyprologue01z_lod</IPL>
+		<IPL>nyprologue01_lod</IPL>
+		<IPL>nyprologue02</IPL>
+		<IPL>nyprologue02_lod</IPL>
+		<IPL>nyprologue03</IPL>
+		<IPL>nyprologue03b</IPL>
+		<IPL>nyprologue03b_lod</IPL>
+		<IPL>nyprologue03_grv_cov</IPL>
+		<IPL>nyprologue03_grv_cov_lod</IPL>
+		<IPL>nyprologue03_lod</IPL>
+		<IPL>nyprologue04</IPL>
+		<IPL>nyprologue04b</IPL>
+		<IPL>nyprologue04b_lod</IPL>
+		<IPL>nyprologue04_cover</IPL>
+		<IPL>nyprologue04_lod</IPL>
+		<IPL>nyprologue05</IPL>
+		<IPL>nyprologue05b</IPL>
+		<IPL>nyprologue05b_lod</IPL>
+		<IPL>nyprologue05_lod</IPL>
+		<IPL>nyprologue06</IPL>
+		<IPL>nyprologue06b</IPL>
+		<IPL>nyprologue06b_lod</IPL>
+		<IPL>nyprologue06_int</IPL>
+		<IPL>nyprologue06_int_lod</IPL>
+		<IPL>nyprologue06_lod</IPL>
+		<IPL>nyprologue06_pannel</IPL>
+		<IPL>nyprologue06_pannel_lod</IPL>
+		<IPL>nyprologuerd</IPL>
+		<IPL>nyprologuerdb</IPL>
+		<IPL>nyprologuerd_lod</IPL>
+		<IPL>nyprologue_m2_door</IPL>
+		<IPL>nyprologue_m2_door_lod</IPL>
+		<IPL>ny_props01</IPL>
+		<IPL>ny_props02</IPL>
+		<IPL>oilrig</IPL>
+		<IPL>pierdoly</IPL>
+		<IPL>_ny_treez</IPL>
+		<IPL>_ny_treez_mission_hill</IPL>
+	</IPLsToRemove>
+	<WeatherToSet></WeatherToSet>
+	<StartTaskSequencesOnLoad>true</StartTaskSequencesOnLoad>
+</SpoonerPlacements>

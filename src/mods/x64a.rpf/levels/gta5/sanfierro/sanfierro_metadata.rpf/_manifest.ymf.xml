@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CPackFileMetaData>
+  <MapDataGroups>
+    <Item>
+      <Name>sfe</Name>
+      <Bounds>
+        <Item>sfe</Item>
+      </Bounds>
+      <Flags/>
+      <WeatherTypes/>
+      <HoursOnOff value="0"/>
+    </Item>
+    <Item>
+      <Name>sfn</Name>
+      <Bounds>
+        <Item>sfn</Item>
+      </Bounds>
+      <Flags/>
+      <WeatherTypes/>
+      <HoursOnOff value="0"/>
+    </Item>
+    <Item>
+      <Name>sfs</Name>
+      <Bounds>
+        <Item>sfs</Item>
+      </Bounds>
+      <Flags/>
+      <WeatherTypes/>
+      <HoursOnOff value="0"/>
+    </Item>
+    <Item>
+      <Name>sfs</Name>
+      <Bounds>
+        <Item>sfs</Item>
+      </Bounds>
+      <Flags/>
+      <WeatherTypes/>
+      <HoursOnOff value="0"/>
+    </Item>
+    <Item>
+      <Name>sfse</Name>
+      <Bounds>
+        <Item>sfse</Item>
+      </Bounds>
+      <Flags/>
+      <WeatherTypes/>
+      <HoursOnOff value="0"/>
+    </Item>
+    <Item>
+      <Name>sfw</Name>
+      <Bounds>
+        <Item>sfw</Item>
+      </Bounds>
+      <Flags/>
+      <WeatherTypes/>
+      <HoursOnOff value="0"/>
+    </Item>
+  </MapDataGroups>
+  <HDTxdBindingArray/>
+  <imapDependencies/>
+  <imapDependencies_2>
+    <Item>
+      <imapName>sfadd</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>sfadd</Item>
+      </itypDepArray>
+    </Item>
+    <Item>
+      <imapName>sfe</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>sfe</Item>
+      </itypDepArray>
+    </Item>
+    <Item>
+      <imapName>sfn</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>sfn</Item>
+      </itypDepArray>
+    </Item>
+    <Item>
+      <imapName>sfs</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>sfs</Item>
+      </itypDepArray>
+    </Item>
+    <Item>
+      <imapName>sfse</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>sfse</Item>
+      </itypDepArray>
+    </Item>
+    <Item>
+      <imapName>sfw</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>sfw</Item>
+      </itypDepArray>
+    </Item>
+  </imapDependencies_2>
+  <itypDependencies_2/>
+  <Interiors/>
+</CPackFileMetaData>

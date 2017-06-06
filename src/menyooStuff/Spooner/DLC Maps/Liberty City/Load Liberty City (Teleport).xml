@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<SpoonerPlacements>
+	<Note />
+	<AudioFile volume="400" />
+	<ClearDatabase>false</ClearDatabase>
+	<ClearWorld>0</ClearWorld>
+	<ClearMarkers>false</ClearMarkers>
+	<IPLsToLoad load_mp_maps="false" load_sp_maps="false">
+		<IPL>brook_n2_master</IPL>
+		<IPL>brook_n_master</IPL>
+		<IPL>brook_s2_master_v</IPL>
+		<IPL>brook_s3_master_v</IPL>
+		<IPL>brook_s_master</IPL>
+	</IPLsToLoad>
+	<IPLsToRemove />
+	<WeatherToSet />
+	<StartTaskSequencesOnLoad>true</StartTaskSequencesOnLoad>
+	<ImgLoadingCoords>
+		<X>-5758.35352</X>
+		<Y>-277.706512</Y>
+		<Z>5.55690861</Z>
+	</ImgLoadingCoords>
+	<ReferenceCoords>
+		<X>-5758.35352</X>
+		<Y>-277.706512</Y>
+		<Z>5.55690861</Z>
+	</ReferenceCoords>
+</SpoonerPlacements>

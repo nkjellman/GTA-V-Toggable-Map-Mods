@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CPackFileMetaData>
+  <MapDataGroups>
+    <Item>
+      <Name>lake_louise</Name>
+      <Bounds>
+        <Item>Barrier</Item>
+        <Item>Barrier2</Item>
+        <Item>cliff</Item>
+        <Item>grass</Item>
+        <Item>Hotel_room</Item>
+        <Item>ice</Item>
+        <Item>lights</Item>
+        <Item>Pit</Item>
+        <Item>Road</Item>
+        <Item>road_lines</Item>
+        <Item>Road_lines_pit</Item>
+        <Item>Rocks</Item>
+        <Item>Rocks2</Item>
+        <Item>Slide_road_slice</Item>
+        <Item>sign</Item>
+        <Item>slope</Item>
+        <Item>slopebig</Item>
+        <Item>Tunnel</Item>
+      </Bounds>
+      <Flags/>
+      <WeatherTypes/>
+      <HoursOnOff value="0"/>
+    </Item>
+  </MapDataGroups>
+  <HDTxdBindingArray/>
+  <imapDependencies/>
+  <imapDependencies_2>
+    <Item>
+      <imapName>lake_louise</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>lake_louise</Item>
+      </itypDepArray>
+    </Item>
+  </imapDependencies_2>
+  <itypDependencies_2/>
+  <Interiors/>
+</CPackFileMetaData>
